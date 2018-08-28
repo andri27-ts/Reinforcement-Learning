@@ -1,5 +1,3 @@
-## Welcome in the 60 days RL Challenge!
-
 
 ![](images/logo3.png)
 
