@@ -19,7 +19,7 @@ During the whole challenge, I will continuously update this repository, so stay 
 
 
  - [ ] 60 days RL Challenge
- - [ ] Chapter 1
+
  - [ ] Cross entropy project
 
 
