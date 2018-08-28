@@ -1,7 +1,7 @@
 
 ![](images/logo3.png)
 
-Hi, finally I decided to learn **Deep Reinforcement Learning*** in depth, in 60 days!!
+Hi, finally I decided to learn **Deep Reinforcement Learning** in depth, in 60 days!!
 
 **Do you want to take on this challenge with me?**  
 
@@ -32,6 +32,10 @@ During the whole challenge, I will continuously update this repository, so stay 
 
 ## Week 1 - Introducion
 
+ - [ ] [An introduction to Reinforcement Learning by Arxiv Insights](https://www.youtube.com/watch?v=JgvyzIkgxF0)
+ - [ ] [Introduction and course overview - CS294 by Levine](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+ - [ ] [Deep Reinforcement Learning: Pong from Pixels by Karpathy](http://karpathy.github.io/2016/05/31/rl/)
+
 ## Week 2 - Cross Entropy and Value Iteration
 
 ## Week 3 - DQN
@@ -53,5 +57,6 @@ During the whole challenge, I will continuously update this repository, so stay 
 
 ## Best resources
 
-
+[Deep Reinforcement Learning - UC Berkeley class by Levine](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+ check [here](http://rail.eecs.berkeley.edu/deeprlcourse/) their site.
 ## Additional resources 
