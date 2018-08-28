@@ -30,21 +30,21 @@ During the whole challenge, I will continuously update this repository.
 
 
 ## Chapters
- 1. *Cross entropy*
- 2. *Value iteration*
- 3. *DQN*
- 4. *Actor Critic (A2C)*
- 5. *Asynchronous Advantage Actor Critic*
- 6. *RL in continuous space*
- 7. *TRPO / PPO*
- 8. *ES & GA*
+ 1. **Cross entropy**
+ 2. **Value iteration**
+ 3. **DQN**
+ 4. **Actor Critic (A2C)**
+ 5. **Asynchronous Advantage Actor Critic**
+ 6. **RL in continuous space**
+ 7. **TRPO / PPO**
+ 8. **ES & GA**
 
 ## Projects (Yet to decide)
- - Cross entropy
- - DQN
- - AC2
- - ES
- - AlphaGo Zero
+ - **Cross entropy**
+ - **DQN**
+ - **AC2**
+ - **ES**
+ - **AlphaGo Zero**
 
 
 ## Best RL papers
