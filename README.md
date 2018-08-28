@@ -13,9 +13,7 @@ Also, because this is my first project of this kind, please, if you have any ide
 
 NB: I chose a similar path to the one taken in the book [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Practical-Reinforcement-Learning-Maxim-Lapan/dp/1788834240)
 
-During the whole challenge, I will continuously update this repository, so stay tuned!
-
-#60daysrlchallenge
+During the whole challenge, I will continuously update this repository, so stay tuned! #60daysrlchallenge
 
 
  - [ ] 60 days RL Challenge
