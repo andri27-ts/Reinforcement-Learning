@@ -1,5 +1,5 @@
 
-![](images/logo3.png)
+![](images/logo5.png)
 
 #### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in depth in 60 days!!
 
