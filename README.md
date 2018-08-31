@@ -9,7 +9,7 @@
  </strong>
 </p>
 
-<br><br>
+<br>
 
 ### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in depth in 60 days!!
 
