@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-#### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in depth in 60 days!!
+### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in depth in 60 days!!
 
 You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
 This is the right opportunity for you and me to finally learn Deep RL and use it on new exciting projects.
