@@ -1,24 +1,16 @@
 
 ![](images/logo3.png)
 
-Hi, finally I decided to learn **Deep Reinforcement Learning** in depth, in 60 days!!
+#### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in depth in 60 days!!
 
-**Do you want to take on this challenge with me?**  
+You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
+This is the right opportunity for you and me to finally learn Deep RL and use it on new exciting projects.
 
-Aren't you convinced? Look at the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by the bot developed by [OpenAI to play Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)  
+This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the main topics organized by week and the resources suggested to learn them. Also, every week I will provide practical examples implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!
 
-This repository wants to guide you through the **Deep Reinforcement Learning algorithms**, from the basic cross-entropy algorithm to the highly advanced AlphaGo Zero. You will find the main **topics organized by week and the resources suggested to learn them**. Also, every week I will provide **practical examples** implemented in python to help you better digest the theory. You are highly encouraged to modify them and implement by yourself.
+This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
 
-Also, because this is my first project of this kind, please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
-
-NB: I chose a similar path to the one taken in the book [Deep Reinforcement Learning Hands-On](https://www.amazon.com/Practical-Reinforcement-Learning-Maxim-Lapan/dp/1788834240)
-
-During the whole challenge, I will continuously update this repository, so stay tuned! #60daysrlchallenge
-
-
- - [ ] 60 days RL Challenge
-
- - [ ] Cross entropy project
+During the whole challenge, I will continuously update this repository.. so stay tuned! #60daysrlchallenge
 
 
 ## Projects (Yet to decide)
