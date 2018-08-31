@@ -26,7 +26,7 @@ During the whole challenge, I will continuously update this repository.. **so st
  - [ ] [Introduction and course overview - CS294 by Levine](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
  - [ ] [Deep Reinforcement Learning: Pong from Pixels by Karpathy](http://karpathy.github.io/2016/05/31/rl/)
 
-## Week 2 - RL Basics - MDP, Dynamic Programming and Model-Free Control
+## Week 2 - RL Basics - *MDP, Dynamic Programming and Model-Free Control*
 
 ## Week 3 - Value Function Approximation and DQN
 
