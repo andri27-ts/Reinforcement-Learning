@@ -3,7 +3,7 @@
 
 <p align="center">
 	<strong>
-  •
+  		•
 		<a href="https://twitter.com/andri27_it">Twitter</a>
 		•
  </strong>
@@ -39,9 +39,9 @@ During the whole challenge, I will continuously update this repository.. **so st
 
 ## Week 1 - Introducion
 
- - [ ] [An introduction to Reinforcement Learning by Arxiv Insights](https://www.youtube.com/watch?v=JgvyzIkgxF0)
- - [ ] [Introduction and course overview - CS294 by Levine](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
- - [ ] [Deep Reinforcement Learning: Pong from Pixels by Karpathy](http://karpathy.github.io/2016/05/31/rl/)
+ - #### [An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights
+ - #### [Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine
+ - #### [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy
 
 ## Week 2 - RL Basics - *MDP, Dynamic Programming and Model-Free Control*
 
