@@ -21,7 +21,7 @@ This repository wants to guide you through the Deep Reinforcement Learning algor
 This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
 
 
-#### During the whole challenge, I will continuously update this repository.. **so stay tuned**! #60DaysRLChallenge
+#### During the whole challenge, I will update continuously this repository.. **so stay tuned**! #60DaysRLChallenge
 
 
 ## Projects (Yet to decide)
