@@ -31,7 +31,7 @@ This is my first project of this kind, so please, if you have any idea, suggesti
  - **ES**
  - **AlphaGo Zero**
 
-## Week 1 - Introducion
+## Week 1 - Introduction
 
  - #### [An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights
  - #### [Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine
