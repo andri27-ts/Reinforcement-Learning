@@ -1,13 +1,7 @@
 
 ![](images/logo5.png)
 
-<p align="center">
-	<strong>
-  		•
-		<a href="https://twitter.com/andri27_it">Twitter</a>
-		•
- </strong>
-</p>
+![](https://img.shields.io/badge/Uploading-12%25-blue.svg)  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it)
 
 <br>
 
@@ -27,7 +21,7 @@ This repository wants to guide you through the Deep Reinforcement Learning algor
 This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
 
 
-During the whole challenge, I will continuously update this repository.. **so stay tuned**! #60daysrlchallenge
+During the whole challenge, I will continuously update this repository.. **so stay tuned**! #60DaysRLChallenge
 
 
 ## Projects (Yet to decide)
@@ -43,7 +37,7 @@ During the whole challenge, I will continuously update this repository.. **so st
  - #### [Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine
  - #### [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy
 
-## Week 2 - RL Basics - *MDP, Dynamic Programming and Model-Free Control*
+## Week 2 - RL Basics: *MDP, Dynamic Programming and Model-Free Control*
 
 ## Week 3 - Value Function Approximation and DQN
 
