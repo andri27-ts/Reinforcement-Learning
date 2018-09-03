@@ -59,10 +59,10 @@ This week, we will learn about the basic blocks of reinforcement learning, start
  - #### [Model-Free Prediction](https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - RL by David Silver: *Estimate* the value function of *unknown* MDP
    - Monte Carlo Learning
    - Temporal Difference Learning
-   - TD( $$\lambda$$ )
+   - TD(λ)
 
  - #### [Model-Free Control](https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5) - RL by David Silver: *Optimise* the value function of an *unknown* MDP
-   - $$ \epsilon $$ -greedy policy iteration
+   - Ɛ-greedy policy iteration
    - GLIE Monte Carlo Search
    - SARSA
    - Importance Sampling
