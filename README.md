@@ -26,6 +26,13 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 #### .. so stay tuned [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
 #### #60DaysRLChallenge
 
+<br>
+
+### Prerequisites
+* Basic level of Python and PyTorch
+* Machine Learning
+* Basic knowledge in Deep Learning (MLP, CNN and RNN)
+
 ## Projects (Yet to decide)
  - **Q-learning**
  - **DQN**
