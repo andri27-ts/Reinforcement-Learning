@@ -21,9 +21,10 @@ This repository wants to guide you through the Deep Reinforcement Learning algor
 This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
 
 
-#### During the whole challenge, I will update continuously this repository.. **so stay tuned**! #60DaysRLChallenge
+#### During the whole challenge, I will update continuously this repository.. 
 
-#### Follow me  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
+#### .. so stay tuned [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
+#### #60DaysRLChallenge
 
 ## Projects (Yet to decide)
  - **Q-learning**
