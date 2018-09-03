@@ -39,6 +39,50 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 ## Week 2 - RL Basics: *MDP, Dynamic Programming and Model-Free Control*
 
+> Those who cannot rember the part are condomned to repeat it - George Santayana 
+
+
+This week, we will learn about the basic blocks of reinforcement learning, starting from the definition of the problem all the way through the estimation and optimization of the functions that are used to express the quality of a policy or state.
+
+----
+
+### Theoretical material
+
+ - #### [Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2) - RL by David Silver
+ Formalizing RL problem using MDP
+  - Markov Processes
+  - Markov Decision Processes
+
+ - #### [Planning by Dynamic Programming](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3) - RL by David Silver
+ How to solve *known* MDP 
+  - Policy iteration
+  - Value iteration
+
+ - #### [Model-Free Prediction](https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - RL by David Silver
+ *Estimate* the value function of *unknown* MDP
+  - Monte Carlo Learning
+  - Temporal Difference Learning
+  - TD($$\lambda$$)
+
+ - #### [Model-Free Control](https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5) - RL by David Silver
+ *Optimise* the value function of an *unknown* MDP
+  - $$\epsilon$$-greedy policy iteration
+  - GLIE Monte Carlo Search
+  - SARSA
+  - Importance Sampling
+
+----
+
+### Project of the Week
+
+[Q-learning applied to FrozenLake](Week2/frozenlake_Qlearning.ipynb). For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed. 
+
+----
+
+#### To know more
+- Read chapters 3,4,5,6,7 of [Reinforcement Learning An Introduction - Sutton, Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
+
 ## Week 3 - Value Function Approximation and DQN
 
 ## Week 4 - A2C and A3C
@@ -64,7 +108,7 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 :notebook: [Reinforcement Learning: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981/ref=sr_1_2?s=books&ie=UTF8&qid=1535898372&sr=1-2&keywords=reinforcement+learning+sutton) - by Sutton & Barto. The "Bible" of reinforcement learning. [Here](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) you can find the PDF draft of the second version.
 
-:books: [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl). A curated list of resources dedicated to reinforcement learning
-
 
 ## Additional resources 
+
+:books: [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl). A curated list of resources dedicated to reinforcement learning
