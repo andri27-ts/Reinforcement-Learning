@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-![](https://img.shields.io/badge/Uploading-25%25-blue.svg)  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it)
+![](https://img.shields.io/badge/Uploading-25%25-blue.svg)  
 
 <br>
 
@@ -23,6 +23,7 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 #### During the whole challenge, I will update continuously this repository.. **so stay tuned**! #60DaysRLChallenge
 
+#### Follow me  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
 
 ## Projects (Yet to decide)
  - **Q-learning**
