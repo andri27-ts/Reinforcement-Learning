@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-![](https://img.shields.io/badge/Uploading-12%25-blue.svg)  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it)
+![](https://img.shields.io/badge/Uploading-25%25-blue.svg)  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it)
 
 <br>
 
