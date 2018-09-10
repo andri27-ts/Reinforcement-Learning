@@ -33,7 +33,7 @@ DQN_HYPERPARAMS = {
 It uses two different neural networks, one outputs the value of the state and the other the advantage of each action.
 The two NNs share the convolutional encoder.
 
-<img src="imgs/dueling_img.png" alt="drawing" width="400"/>
+<img src="imgs/Dueling_img.png" alt="drawing" width="400"/>
 
 [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf)
 
@@ -101,7 +101,7 @@ NB: If you use GPUs remember to change DEVICE from 'cpu' to 'cuda' in *main.py*.
 In the image below are shown the mean of the rewards of the last 10 games and the last 40 games for three different DQN variations.
 The green one is a basic DQN, the blue one a 2 step DQN and the red one 2-step Dueling DQN.
 
-![results](imgs/DQN_variantions.png)
+![results](imgs/DQN_variations.png)
 
 May seem strange that 2-step Dueling DQN performs worst than 2-step DQN but it's important to keep in mind that the NNs are stochastic and that I tested only on one game. The authors of the DuelingDQN paper, reported better results when applied to other games.
 
