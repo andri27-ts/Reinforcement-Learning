@@ -99,9 +99,12 @@ NB: If you use GPUs remember to change DEVICE from 'cpu' to 'cuda' in *main.py*.
 ## Results
 
 In the image below are shown the mean of the rewards of the last 10 games and the last 40 games for three different DQN variations.
-The green one is a basic DQN, the blue one a 2 step DQN and the red one 2-step Dueling DQN.
 
 ![results](imgs/DQN_variations.png)
+
+- ![#00ac77](https://placehold.it/15/00ac77/000000?text=+) `Basic DQN`
+- ![#628ced](https://placehold.it/15/628ced/000000?text=+) `2-step DQN`
+- ![#f03cc5](https://placehold.it/15/f03cc5/000000?text=+) `2-step Dueling DQN`
 
 May seem strange that 2-step Dueling DQN performs worst than 2-step DQN but it's important to keep in mind that the NNs are stochastic and that I tested only on one game. The authors of the DuelingDQN paper, reported better results when applied to other games.
 
