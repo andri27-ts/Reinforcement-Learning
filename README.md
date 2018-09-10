@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-![](https://img.shields.io/badge/Uploading-12%25-blue.svg)  [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it)
+![](https://img.shields.io/badge/Uploading-25%25-blue.svg)  
 
 <br>
 
@@ -21,8 +21,17 @@ This repository wants to guide you through the Deep Reinforcement Learning algor
 This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
 
 
-#### During the whole challenge, I will update continuously this repository.. **so stay tuned**! #60DaysRLChallenge
+#### During the whole challenge, I will update continuously this repository..
 
+#### .. so stay tuned [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
+#### #60DaysRLChallenge
+
+<br>
+
+### Prerequisites
+* Basic level of Python and PyTorch
+* Machine Learning
+* Basic knowledge in Deep Learning (MLP, CNN and RNN)
 
 ## Projects (Yet to decide)
  - **Q-learning**
@@ -39,7 +48,7 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 ## Week 2 - RL Basics: *MDP, Dynamic Programming and Model-Free Control*
 
-> Those who cannot rember the part are condomned to repeat it - George Santayana
+> Those who cannot rember the part are condomned to repeat it - **George Santayana**
 
 
 This week, we will learn about the basic blocks of reinforcement learning, starting from the definition of the problem all the way through the estimation and optimization of the functions that are used to express the quality of a policy or state.
@@ -49,27 +58,27 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 ### Theoretical material
 
  - #### [Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2) - RL by David Silver
- Formalizing RL problem using MDP
-  - Markov Processes
-  - Markov Decision Processes
+   Formalizing RL problem using MDP
+   - Markov Processes
+   - Markov Decision Processes
 
  - #### [Planning by Dynamic Programming](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3) - RL by David Silver
- How to solve *known* MDP
-  - Policy iteration
-  - Value iteration
+   How to solve *known* MDP
+   - Policy iteration
+   - Value iteration
 
  - #### [Model-Free Prediction](https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - RL by David Silver
- *Estimate* the value function of *unknown* MDP
-  - Monte Carlo Learning
-  - Temporal Difference Learning
-  - TD($$\lambda$$)
+   *Estimate* the value function of *unknown* MDP
+   - Monte Carlo Learning
+   - Temporal Difference Learning
+   - TD(λ)
 
  - #### [Model-Free Control](https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5) - RL by David Silver
- *Optimise* the value function of an *unknown* MDP
-  - $$\epsilon$$-greedy policy iteration
-  - GLIE Monte Carlo Search
-  - SARSA
-  - Importance Sampling
+   *Optimise* the value function of an *unknown* MDP
+   - Ɛ-greedy policy iteration
+   - GLIE Monte Carlo Search
+   - SARSA
+   - Importance Sampling
 
 ----
 
