@@ -105,7 +105,7 @@ The x-axis is the number of games. You can see that only 120 games are enough to
 
 - ![#00ac77](https://placehold.it/15/00ac77/000000?text=+) `Basic DQN`
 - ![#628ced](https://placehold.it/15/628ced/000000?text=+) `2-step DQN`
-- ![#f03cc5](https://placehold.it/15/f03cc5/000000?text=+) `2-step Dueling DQN`
+- ![#df1515](https://placehold.it/15/df1515/000000?text=+) `2-step Dueling DQN`
 
 May seem strange that 2-step Dueling DQN performs worst than 2-step DQN but it's important to keep in mind that the NNs are stochastic and that I tested only on one game. The authors of the DuelingDQN paper, reported better results when applied to other games.
 
