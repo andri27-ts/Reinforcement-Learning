@@ -135,7 +135,9 @@ Install gym
 ```
 
 
-## To run TensorBoard in Google Colab (https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/)
+## To run TensorBoard in Google Colab
+
+Instructions from https://www.dlology.com/blog/quick-guide-to-run-tensorboard-in-google-colab/
 
 Download and install ngrok
 ```
