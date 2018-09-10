@@ -18,9 +18,9 @@ This repository wants to guide you through the Deep Reinforcement Learning algor
 
 <br>
 
-#### During the whole challenge, I will update continuously this repository..
+During the whole challenge, I will **update continuously** this repository..
 
-#### .. so stay tuned [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
+**.. so stay tuned** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
 #### #60DaysRLChallenge
 
 Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To get an invitation, email me at andrea.lonza@gmail.com
