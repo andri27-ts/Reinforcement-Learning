@@ -10,13 +10,11 @@ To make things more interesting, I improved the basic DQN, implementing some var
 
 ---
 
-### Double Q-learning
+### Double Q-learning - [Paper](https://arxiv.org/pdf/1509.06461.pdf)
 
 Minimize the overestimation bias introduced by the conventional Q-learning.
 
 <img src="imgs/double_Qlearning_formula.png" alt="drawing" width="400"/>
-
-[Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf)
 
 To use it, in *main.py*, set
 ```python
@@ -28,14 +26,12 @@ DQN_HYPERPARAMS = {
 
 ---
 
-### Dueling networks
+### Dueling networks - [Paper](http://proceedings.mlr.press/v48/wangf16.pdf)
 
 It uses two different neural networks, one outputs the value of the state and the other the advantage of each action.
 The two NNs share the convolutional encoder.
 
 <img src="imgs/Dueling_img.png" alt="drawing" width="400"/>
-
-[Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf)
 
 To use it, in *main.py*, set
 ```python
@@ -47,13 +43,11 @@ DQN_HYPERPARAMS = {
 
 ---
 
-### NoisyNet
+### NoisyNet - [Paper](https://arxiv.org/pdf/1706.10295.pdf)
 
 An idea to overcome the ε-greedy limitations is to introduce noise linear layers. The network will manage the noise stream to balance the exploration.
 
 <img src="imgs/noisenet_formula.png" alt="drawing" width="400"/>
-
-[Noisy networks for exploration](https://arxiv.org/pdf/1706.10295.pdf)
 
 To use it, in *main.py*, set
 ```python
