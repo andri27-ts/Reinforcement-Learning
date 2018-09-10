@@ -98,7 +98,8 @@ NB: If you use GPUs remember to change DEVICE from 'cpu' to 'cuda' in *main.py*.
 
 ## Results
 
-In the image below are shown the mean of the rewards of the last 10 games and the last 40 games for three different DQN variations.
+In the image below are shown the rewards mean of the last 10 games and the last 40 games for three different DQN variations.
+The x-axis is the number of games. You can see that only 120 games are enough to learn the game pretty well.
 
 ![results](imgs/DQN_variations.png)
 
