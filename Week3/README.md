@@ -10,7 +10,7 @@ To make things more interesting, I improved the basic DQN, implementing some var
 
 ---
 
-#### Double Q-learning
+### Double Q-learning
 
 Minimize the overestimation bias introduced by the conventional Q-learning.
 
@@ -28,7 +28,7 @@ DQN_HYPERPARAMS = {
 
 ---
 
-#### Dueling networks
+### Dueling networks
 
 It uses two different neural networks, one outputs the value of the state and the other the advantage of each action.
 The two NNs share the convolutional encoder.
@@ -47,7 +47,7 @@ DQN_HYPERPARAMS = {
 
 ---
 
-#### NoisyNet
+### NoisyNet
 
 An idea to overcome the ε-greedy limitations is to introduce noise linear layers. The network will manage the noise stream to balance the exploration.
 
@@ -65,7 +65,7 @@ DQN_HYPERPARAMS = {
 
 ---
 
-#### Multi-step
+### Multi-step
 
 Introduce a forward-view multi-step. Similar to TD(λ)
 
