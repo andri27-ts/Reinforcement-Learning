@@ -90,6 +90,7 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 #### To know more
 - Read chapters 3,4,5,6,7 of [Reinforcement Learning An Introduction - Sutton, Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Value functions introduction](https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - DRL UC Berkley by Sergey Levine
 
 
 ## Week 3 - Value Function Approximation and DQN
@@ -116,16 +117,16 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 #### Papers
 
 ##### Must Read
- - Playing Atari with Deep Reinforcement Learning - 2013 https://arxiv.org/pdf/1312.5602.pdf
- - Human-level control through deep reinforcement learning - 2015 https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
- - Rainbow: Combining Improvements in Deep Reinforcement Learning - 2017 https://arxiv.org/pdf/1710.02298.pdf
+ - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) - 2013
+ - [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) - 2015 
+ - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) - 2017
 
 ##### Extensions to DQN
- - Deep Reinforcement Learning with Double Q-learning - 2015 https://arxiv.org/pdf/1509.06461.pdf
- - Prioritized Experience Replay - 2015 https://arxiv.org/pdf/1511.05952.pdf
- - Dueling Network Architectures for Deep Reinforcement Learning - 2016 http://proceedings.mlr.press/v48/wangf16.pdf
- - Noisy networks for exploration - 2017 https://arxiv.org/pdf/1706.10295.pdf
- - Distributional Reinforcement Learning with Quantile Regression - 2017 https://arxiv.org/pdf/1710.10044.pdf
+ - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf) - 2015
+ - [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) - 2015 
+ - [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) - 2016 
+ - [Noisy networks for exploration](https://arxiv.org/pdf/1706.10295.pdf) - 2017 
+ - [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/pdf/1710.10044.pdf) - 2017 
 
 ----
 
@@ -139,12 +140,7 @@ This week the goal is to develop a DQN algorithm to play an Atari game. To make 
 -----
 
 #### Suggested
-  - Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry https://www.youtube.com/watch?v=GOsUHlr4DKE
-
-#### Recap
-
-- #### [Value functions introduction](https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - DRL UC Berkley by Sergey Levine
-
+  - [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
 
 ## Week 4 - A2C and A3C
 
