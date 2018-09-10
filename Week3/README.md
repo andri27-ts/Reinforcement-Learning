@@ -8,6 +8,8 @@ For the DQN implementation and the choose of the hyperparameters, I mostly follo
 
 To make things more interesting, I improved the basic DQN, implementing some variations like **Double Q-learning**, **Dueling networks**, **Multi-step learning** and **Noisy Nets**. You can find them summarized by [Hessel et al.](https://arxiv.org/pdf/1710.02298.pdf)
 
+### [Learn the theory](../README.md)
+
 ---
 
 ### Double Q-learning - [Paper](https://arxiv.org/pdf/1509.06461.pdf)
