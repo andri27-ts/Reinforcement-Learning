@@ -120,15 +120,15 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 ##### Must Read
  - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf) - 2013
- - [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) - 2015 
+ - [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) - 2015
  - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) - 2017
 
 ##### Extensions to DQN
  - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf) - 2015
- - [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) - 2015 
- - [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) - 2016 
- - [Noisy networks for exploration](https://arxiv.org/pdf/1706.10295.pdf) - 2017 
- - [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/pdf/1710.10044.pdf) - 2017 
+ - [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) - 2015
+ - [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) - 2016
+ - [Noisy networks for exploration](https://arxiv.org/pdf/1706.10295.pdf) - 2017
+ - [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/pdf/1710.10044.pdf) - 2017
 
 ----
 
@@ -144,13 +144,13 @@ This week the goal is to develop a DQN algorithm to play an Atari game. To make 
 #### Suggested
   - [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
 
-## Week 4 - A2C and A3C
+## Week 4 - Policy gradient methods - A2C and A3C
 
-## Week 5 - RL in continous space - TRPO/PPO
+## Week 5 - Advanced policy gradients - TRPO/PPO
 
 ## Week 6 - Evolution Strategies and Genetic Algorithms
 
-## Week 7 - I2A
+## Week 7 - Model Based reinforcement learning - I2A
 
 ## Week 8 - AlphaGoZero + Bonus
 
