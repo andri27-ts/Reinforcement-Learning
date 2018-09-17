@@ -138,13 +138,56 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 This week the goal is to develop a DQN algorithm to play an Atari game. To make it more interesting I developed three extensions of DQN: **Double Q-learning**, **Multi-step learning**, **Dueling networks** and **Noisy Nets**. Play with them, and if you feel confident, you can implement Prioritized replay, Dueling networks or Distributional RL. To know more about these improvements read the papers!
 
-
 -----
 
 #### Suggested
   - [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
 
-## Week 4 - Policy gradient methods - A2C and A3C
+
+## Week 4 - Policy gradient methods and A2C
+
+Week 4 introduce Policy Gradient methods, a class of algorithms that optimize directly the policy. Also, you'll learn about Actor-Critic algorithms. These algorithms combine both policy gradient (the actor) and value function (the critic).
+
+----
+
+### Theoretical material
+
+#### Lectures
+
+- #### [Policy gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7) - RL by David Silver
+  - Finite Difference Policy Gradient
+  - Monte-Carlo Policy Gradient
+  - Actor-Critic Policy Gradient
+
+- #### [Policy gradient intro](https://www.youtube.com/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3) - CS294-112 by Sergey Levine - (RECAP, optional)
+  - Policy Gradient (REINFORCE and Vanilla PG)
+  - Variance reduction
+
+- #### [Actor-Critic](https://www.youtube.com/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4) - CS294-112 by Sergey Levine - (More in depth)
+  - Actor-Critic
+  - Discout factor
+  - Actor-Critic algorithm design (batch mode or online)
+  - state-dependent baseline
+
+#### Papers
+
+- [Policy Gradient methods for reinforcement learning with function approximation](Policy Gradient methods for reinforcement learning with function approximation)
+- [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+
+---
+
+### Project of the Week
+
+[**Vanilla PG and A2C**](Week4)
+The exercise of this week is to implement a policy gradient method or a more sophisticated actor-critic. In the repository you can find an implemented version of PG and A2C. Pay attention that A2C give me strange result. You can try to make it works or implement an [asynchronous version of A2C (A3C)](https://arxiv.org/pdf/1602.01783.pdf).
+
+---
+
+#### Suggested
+  - [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+  - [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+
+
 
 ## Week 5 - Advanced policy gradients - TRPO/PPO
 
