@@ -50,7 +50,7 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 ## Week 2 - RL Basics: *MDP, Dynamic Programming and Model-Free Control*
 
-> Those who cannot rember the part are condomned to repeat it - **George Santayana**
+> Those who cannot remember the past are condemned to repeat it - **George Santayana**
 
 
 This week, we will learn about the basic blocks of reinforcement learning, starting from the definition of the problem all the way through the estimation and optimization of the functions that are used to express the quality of a policy or state.
