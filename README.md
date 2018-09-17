@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-![](https://img.shields.io/badge/Uploading-38%25-blue.svg)  
+![](https://img.shields.io/badge/Uploading-50%25-blue.svg)  
 
 <br>
 
@@ -171,7 +171,7 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
 
 #### Papers
 
-- [Policy Gradient methods for reinforcement learning with function approximation](Policy Gradient methods for reinforcement learning with function approximation)
+- [Policy Gradient methods for reinforcement learning with function approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
 ---
