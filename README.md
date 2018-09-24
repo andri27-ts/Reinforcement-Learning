@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-![](https://img.shields.io/badge/Uploading-50%25-blue.svg)  
+![](https://img.shields.io/badge/Uploading-63%25-blue.svg)  
 
 <br>
 
