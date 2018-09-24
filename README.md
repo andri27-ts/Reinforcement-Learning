@@ -188,8 +188,48 @@ The exercise of this week is to implement a policy gradient method or a more sop
   - [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
 
+## Week 5 - Advanced Policy Gradients - TRPO & PPO
 
-## Week 5 - Advanced policy gradients - TRPO/PPO
+This week is about advanced policy gradient methods that improve the stability and the convergence of the "Vanilla" policy gradient methods. You'll learn and implement PPO, a RL algorithm developed by OpenAI and adopted in [OpenAI Five](https://blog.openai.com/openai-five/).
+
+----
+
+### Theoretical material
+
+#### Lectures
+
+- #### [Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - CS294-112 by Sergey Levine
+ - Problems with "Vanilla" Policy Gradient Methods
+ - Policy Performance Bounds
+ - Monotonic Improvement Theory
+ - Algorithms: NPO, TRPO, PPO
+
+- #### [Natural Policy Gradients, TRPO, PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) - John Schulman, Berkey DRL Bootcamp - (RECAP, optional)
+ - Limitations of "Vanilla" Policy Gradient Methods
+ - Natural Policy Gradient
+ - Trust Region Policy Optimization, TRPO
+ - Proximal Policy Optimization, PPO
+
+#### Papers
+
+- [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - 2015
+- [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) - 2017
+
+---
+
+### Project of the Week
+
+This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder [**Week5**](Week5) you can find an implementation of PPO that learn to play BipedalWalker.
+Furthermore, in the folder you can find other resources that will help you in the development of the project. Have fun!
+
+NB: the hyperparameters of the PPO implementation I released, can be tuned to improve the convergence.
+---
+
+#### Suggested
+  - :books: To better understand PPO and TRPO: [The Pursuit of (Robotic) Happiness](https://towardsdatascience.com/the-pursuit-of-robotic-happiness-how-trpo-and-ppo-stabilize-policy-gradient-methods-545784094e3b)
+  - :tv: [Nuts and Bolts of Deep RL](https://www.youtube.com/watch?v=8EcdaCk9KaQ&)
+  - :books: PPO best practice: [Training with Proximal Policy Optimization](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md)
+
 
 ## Week 6 - Evolution Strategies and Genetic Algorithms
 
