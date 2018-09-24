@@ -44,9 +44,11 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 ## Week 1 - Introduction
 
- - #### [An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights
- - #### [Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine
- - #### [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy
+- **[An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights**
+- **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine**
+- **[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**
+
+<br>
 
 ## Week 2 - RL Basics: *MDP, Dynamic Programming and Model-Free Control*
 
@@ -59,28 +61,24 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ### Theoretical material
 
- - #### [Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2) - RL by David Silver
-   Formalizing RL problem using MDP
-   - Markov Processes
-   - Markov Decision Processes
+* **[Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)** RL by David Silver
+  * Markov Processes
+  * Markov Decision Processes
 
- - #### [Planning by Dynamic Programming](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3) - RL by David Silver
-   How to solve *known* MDP
-   - Policy iteration
-   - Value iteration
+- **[Planning by Dynamic Programming](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3)**  RL by David Silver
+  * Policy iteration
+  * Value iteration
 
- - #### [Model-Free Prediction](https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - RL by David Silver
-   *Estimate* the value function of *unknown* MDP
-   - Monte Carlo Learning
-   - Temporal Difference Learning
-   - TD(λ)
+* **[Model-Free Prediction](https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)**  RL by David Silver
+  * Monte Carlo Learning
+  * Temporal Difference Learning
+  * TD(λ)
 
- - #### [Model-Free Control](https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5) - RL by David Silver
-   *Optimise* the value function of an *unknown* MDP
-   - Ɛ-greedy policy iteration
-   - GLIE Monte Carlo Search
-   - SARSA
-   - Importance Sampling
+- **[Model-Free Control](https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5)**  RL by David Silver
+  * Ɛ-greedy policy iteration
+  * GLIE Monte Carlo Search
+  * SARSA
+  * Importance Sampling
 
 ----
 
@@ -91,9 +89,10 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 ----
 
 #### To know more
-- Read chapters 3,4,5,6,7 of [Reinforcement Learning An Introduction - Sutton, Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
-- [Value functions introduction](https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - DRL UC Berkley by Sergey Levine
+- :books: Read chapters 3,4,5,6,7 of [Reinforcement Learning An Introduction - Sutton, Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- :tv: [Value functions introduction](https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - DRL UC Berkley by Sergey Levine
 
+<br>
 
 ## Week 3 - Value Function Approximation and DQN
 
@@ -123,7 +122,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
  - [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) - 2015
  - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) - 2017
 
-##### Extensions to DQN
+##### Extensions of DQN
  - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf) - 2015
  - [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf) - 2015
  - [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) - 2016
@@ -141,8 +140,9 @@ This week the goal is to develop a DQN algorithm to play an Atari game. To make 
 -----
 
 #### Suggested
-  - [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
+  - :tv: [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
 
+<br>
 
 ## Week 4 - Policy gradient methods and A2C
 
@@ -154,16 +154,16 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
 
 #### Lectures
 
-- #### [Policy gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7) - RL by David Silver
+* **[Policy gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7) - RL by David Silver**
   - Finite Difference Policy Gradient
   - Monte-Carlo Policy Gradient
   - Actor-Critic Policy Gradient
 
-- #### [Policy gradient intro](https://www.youtube.com/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3) - CS294-112 by Sergey Levine - (RECAP, optional)
+- **[Policy gradient intro](https://www.youtube.com/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3) - CS294-112 by Sergey Levine (RECAP, optional)**
   - Policy Gradient (REINFORCE and Vanilla PG)
   - Variance reduction
 
-- #### [Actor-Critic](https://www.youtube.com/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4) - CS294-112 by Sergey Levine - (More in depth)
+* **[Actor-Critic](https://www.youtube.com/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4) - CS294-112 by Sergey Levine (More in depth)**
   - Actor-Critic
   - Discout factor
   - Actor-Critic algorithm design (batch mode or online)
@@ -184,9 +184,10 @@ The exercise of this week is to implement a policy gradient method or a more sop
 ---
 
 #### Suggested
-  - [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
-  - [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
+  - :books: [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
+  - :books: [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
+<br>
 
 ## Week 5 - Advanced Policy Gradients - TRPO & PPO
 
@@ -198,17 +199,17 @@ This week is about advanced policy gradient methods that improve the stability a
 
 #### Lectures
 
-- #### [Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - CS294-112 by Sergey Levine
+- **[Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - CS294-112 by Sergey Levine**
   - Problems with "Vanilla" Policy Gradient Methods
   - Policy Performance Bounds
   - Monotonic Improvement Theory
   - Algorithms: NPO, TRPO, PPO
 
-- #### [Natural Policy Gradients, TRPO, PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) - John Schulman, Berkey DRL Bootcamp - (RECAP, optional)
-  - Limitations of "Vanilla" Policy Gradient Methods
-  - Natural Policy Gradient
-  - Trust Region Policy Optimization, TRPO
-  - Proximal Policy Optimization, PPO
+* **[Natural Policy Gradients, TRPO, PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) - John Schulman, Berkey DRL Bootcamp - (RECAP, optional)**
+  * Limitations of "Vanilla" Policy Gradient Methods
+  * Natural Policy Gradient
+  * Trust Region Policy Optimization, TRPO
+  * Proximal Policy Optimization, PPO
 
 #### Papers
 
@@ -219,7 +220,7 @@ This week is about advanced policy gradient methods that improve the stability a
 
 ### Project of the Week
 
-This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder [**Week5**](Week5) you can find an implementation of PPO that learn to play BipedalWalker.
+This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder [**Week5**](Week5) you can find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
 Furthermore, in the folder you can find other resources that will help you in the development of the project. Have fun!
 
 NB: the hyperparameters of the PPO implementation I released, can be tuned to improve the convergence.
@@ -231,6 +232,7 @@ NB: the hyperparameters of the PPO implementation I released, can be tuned to im
   - :tv: [Nuts and Bolts of Deep RL](https://www.youtube.com/watch?v=8EcdaCk9KaQ&)
   - :books: PPO best practice: [Training with Proximal Policy Optimization](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md)
 
+<br>
 
 ## Week 6 - Evolution Strategies and Genetic Algorithms
 
