@@ -8,9 +8,10 @@ For the DQN implementation and the choose of the hyperparameters, I mostly follo
 
 ### [Learn the theory behind PPO](../README.md)
 
-![walker gif](imgs/walker_gif.gif)
 
 ## Results
+
+![walker gif](imgs/walker_gif.gif)
 
 In the plot below are shown the rewards. The game defines "solving" as getting an average reward of 300 over 100 consecutive trials. We aren't at that level yet, but is possible to reach that goal tuning the hyperparameters and playing more episodes.
 
