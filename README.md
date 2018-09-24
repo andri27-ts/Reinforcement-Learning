@@ -199,16 +199,16 @@ This week is about advanced policy gradient methods that improve the stability a
 #### Lectures
 
 - #### [Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - CS294-112 by Sergey Levine
- - Problems with "Vanilla" Policy Gradient Methods
- - Policy Performance Bounds
- - Monotonic Improvement Theory
- - Algorithms: NPO, TRPO, PPO
+  - Problems with "Vanilla" Policy Gradient Methods
+  - Policy Performance Bounds
+  - Monotonic Improvement Theory
+  - Algorithms: NPO, TRPO, PPO
 
 - #### [Natural Policy Gradients, TRPO, PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) - John Schulman, Berkey DRL Bootcamp - (RECAP, optional)
- - Limitations of "Vanilla" Policy Gradient Methods
- - Natural Policy Gradient
- - Trust Region Policy Optimization, TRPO
- - Proximal Policy Optimization, PPO
+  - Limitations of "Vanilla" Policy Gradient Methods
+  - Natural Policy Gradient
+  - Trust Region Policy Optimization, TRPO
+  - Proximal Policy Optimization, PPO
 
 #### Papers
 
@@ -223,6 +223,7 @@ This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity
 Furthermore, in the folder you can find other resources that will help you in the development of the project. Have fun!
 
 NB: the hyperparameters of the PPO implementation I released, can be tuned to improve the convergence.
+
 ---
 
 #### Suggested
