@@ -1,4 +1,4 @@
-# Let's solve BipedalWalker with Proximal Policy Optimization, PPO
+# Let's solve BipedalWalker with PPO
 
 This is an implementation of [PPO](https://blog.openai.com/openai-baselines-ppo/) with continuous actions, a new algorithm developed by OpenAI that has been used in [OpenAI Five to play Dota 2](https://blog.openai.com/openai-five/).
 
