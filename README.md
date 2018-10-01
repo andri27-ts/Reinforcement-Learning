@@ -48,6 +48,13 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 - **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine**
 - **[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**
 
+---
+
+#### Suggested
+
+- Great introductory paper: [Deep Reinforcement Learning: An Overview](https://www.groundai.com/project/deep-reinforcement-learning-an-overview/)
+- Start coding: [From Scratch: AI Balancing Act in 50 Lines of Python](https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717)
+
 <br>
 
 ## Week 2 - RL Basics: *MDP, Dynamic Programming and Model-Free Control*
