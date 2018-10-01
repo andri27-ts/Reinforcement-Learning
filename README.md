@@ -12,7 +12,6 @@ This is the right opportunity for you and me to finally learn Deep RL and use it
 
 > The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems.
 > **Demis Hassabis**
-<br>
 
 This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the **main topics organized by week** and the **resources suggested to learn them**. Also, every week I will provide **practical examples** implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!
 
