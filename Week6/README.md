@@ -9,7 +9,7 @@ The following are the key parts of this implementation:
 - Normalized rank
 
 
-### [Learn more about Evolution Strategies](../README.md)
+### [Learn more about Evolution Strategies](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)
 
 
 
