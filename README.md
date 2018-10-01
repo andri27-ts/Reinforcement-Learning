@@ -267,7 +267,7 @@ In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been
 
 ### Project of the Week
 The project is to implement a ES or GA.
-In the [repository](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
+In the [**Week6 repository**](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
 Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf) to solve LunarLanderContinuous. You can modify it to play more difficult environments or add your ideas.
 
 <br>
