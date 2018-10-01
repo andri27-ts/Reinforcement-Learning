@@ -11,13 +11,15 @@ The following are the key parts of this implementation:
 
 ### [Learn more about Evolution Strategies](../README.md)
 
-![LunarLander](imgs/LunarLanderContinuous.gif)
+
 
 ## Results
 
+![LunarLander](imgs/LunarLanderContinuous.gif)
+
 The following plot shows the reward for each iteration. ES is able to solve the game after 650 iterations. Keep in mind that in this version, for each iteration, 100 games are played. This means that the algorithm solved the gamed after having played about 65.000 games.
 
-![results](plot_rewards)
+![results](imgs/plot_rewards.png)
 
 
 ## Install
