@@ -32,5 +32,5 @@ apt-get install -y python-numpy python-dev cmake zlib1g-dev libjpeg-dev xvfb ffm
 
 git clone https://github.com/pybox2d/pybox2d
 cd pybox2d
-!pip install -e .
+pip install -e .
 ```
