@@ -293,3 +293,5 @@ Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864
 ## Additional resources
 
 :books: [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl). A curated list of resources dedicated to reinforcement learning
+
+:books: [GroundAI on RL](https://www.groundai.com/?text=reinforcement+learning). Papers on reinforcement learning
