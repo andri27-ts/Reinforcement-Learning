@@ -236,6 +236,35 @@ NB: the hyperparameters of the PPO implementation I released, can be tuned to im
 
 ## Week 6 - Evolution Strategies and Genetic Algorithms
 
+In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been shown to achieve comparable results to RL methods. They are derivate-free black-box algorithms that require more data than RL to learn but are able to scale up across thousands of CPUs. This week we'll look at this black-box algorithms.
+
+----
+
+### Material
+
+- **Evolution Strategies**
+  - [Intro to ES: A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
+  - [ES for RL: Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
+  - [Derivative-free Methods - Lecture](https://www.youtube.com/watch?v=SQtOI9jsrJ0&feature=youtu.be)
+  - [Evolution Strategies (paper discussion)](https://blog.openai.com/evolution-strategies/)
+- **Genetic Algorithms**
+  - [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
+
+
+#### Papers
+
+ - [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/pdf/1712.06567.pdf)
+ - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf)
+
+---
+
+### Project of the Week
+The project is to implement a ES or GA.
+In the [repository](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
+Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf) to solve LunarLanderContinuous. You can modify it to play more difficult environments or add your ideas.
+
+<br>
+
 ## Week 7 - Model Based reinforcement learning - I2A
 
 ## Week 8 - AlphaGoZero + Bonus
