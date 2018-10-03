@@ -6,7 +6,7 @@ PPO is a policy gradient method that differently from the vanilla implementation
 
 For the DQN implementation and the choose of the hyperparameters, I mostly followed the [paper](https://arxiv.org/pdf/1707.06347.pdf). (In the last page there is a table with all the hyperparameters.). In case you want to fine-tune them, check out [Training with Proximal Policy Optimization](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md)
 
-### [Learn the theory behind PPO](../README.md)
+### [Learn the theory behind PPO](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#week-5---advanced-policy-gradients---trpo--ppo)
 
 
 ## Results
