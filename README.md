@@ -239,6 +239,7 @@ NB: the hyperparameters of the PPO implementation I released, can be tuned to im
   - :books: To better understand PPO and TRPO: [The Pursuit of (Robotic) Happiness](https://towardsdatascience.com/the-pursuit-of-robotic-happiness-how-trpo-and-ppo-stabilize-policy-gradient-methods-545784094e3b)
   - :tv: [Nuts and Bolts of Deep RL](https://www.youtube.com/watch?v=8EcdaCk9KaQ&)
   - :books: PPO best practice: [Training with Proximal Policy Optimization](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md)
+  - :tv: [Explanation of the PPO algorithm by Arxiv Insights](https://www.youtube.com/watch?v=5P7I-xPq8u8)
 
 <br>
 
