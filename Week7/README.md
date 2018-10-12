@@ -8,6 +8,7 @@ This repository contains an implementation of the model-based algorithm proposed
 - hyperparameters have been adapted to the new environment and problem reformulation (i.e. the reward has to be learned).
 
 The pseudocode of the main loop is the following:
+
 ![pseudocode](imgs/pseudocode.png)
 
 
