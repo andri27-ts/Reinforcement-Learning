@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-![](https://img.shields.io/badge/Uploading-75%25-blue.svg)  
+![](https://img.shields.io/badge/Uploading-90%25-blue.svg)  
 
 <br>
 
@@ -274,7 +274,54 @@ Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864
 
 <br>
 
-## Week 7 - Model Based reinforcement learning - I2A
+## Week 7 - Model-Based reinforcement learning
+
+The algorithms studied up to now are model-free, meaning that they only choose the better action given a state. These algorithms achieve very good performance but require a lot of training data. Instead, model-based algorithms, learn the environment and plan the next actions accordingly to the model learned. These methods are more sample efficient than model-free but overall achieve worst performance. In this week you'll learn the theory behind these methods and implement one of the last algorithms.
+
+----
+
+### Material
+
+- **Model-Based RL by Davide Silver (Deepmind) (concise version)**
+  - [Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc&index=8&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+    - Model-Based RL Overview
+    - Integrated architectures
+    - Simulation-Based search
+- **Model-Based RL by Sergey Levine (Berkley) (in depth version)**
+  - [Learning dynamical systems from data](https://www.youtube.com/watch?v=yap_g0d7iBQ&index=9&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+    - Overview of model-based RL
+    - Global and local models
+    - Learning with local models and trust regions
+  - [Learning policies by imitating optimal controllers](https://www.youtube.com/watch?v=AwdauFLan7M&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=10)
+    - Backpropagation into a policy with learned models
+    - Guided policy search algorithm
+    - Imitating optimal control with DAgger
+  - [Advanced model learning and images](https://www.youtube.com/watch?v=vRkIwM4GktE&index=11&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+    - Models in latent space
+    - Models directly in image space
+    - Inverse models
+
+
+#### Papers
+
+ - [Imagination-Augmented Agents for Deep Reinforcement Learning - 2017](https://arxiv.org/pdf/1707.06203.pdf)
+ - [Reinforcement learning with unsupervised auxiliary tasks - 2016](https://arxiv.org/pdf/1611.05397.pdf)
+ - [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning - 2018](https://arxiv.org/pdf/1708.02596.pdf)
+
+---
+
+### Project of the Week
+
+As a [project](Week7), I chose to implement the model-based algorithm described in this [paper](https://arxiv.org/pdf/1708.02596.pdf).
+You can find my implementation [here](Week7).
+NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](https://github.com/openai/roboschool), an open-source simulator for robot, integrated with OpenAI Gym.
+
+---
+
+#### Suggested
+  - :books: [World Models - Can agents learn inside of their own dreams?](https://worldmodels.github.io/)
+
+<br>
 
 ## Week 8 - AlphaGoZero + Bonus
 
