@@ -34,12 +34,17 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 * Machine Learning
 * Basic knowledge in Deep Learning (MLP, CNN and RNN)
 
-## Projects (Yet to decide)
- - **Q-learning**
- - **DQN**
- - **AC2**
- - **ES**
- - **AlphaGo Zero**
+## Index
+ - **[Week 1 - Introduction](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)**
+ - **[Week 2 - RL Basics](https://github.com/andri27-ts/60_Days_RL_Challenge#week-2---rl-basics-mdp-dynamic-programming-and-model-free-control)**
+ - **[Week 3 - Value Function Approximation and DQN](https://github.com/andri27-ts/60_Days_RL_Challenge#week-3---value-function-approximation-and-dqn)**
+ - **[Week 4 - Policy gradient methods and A2C](https://github.com/andri27-ts/60_Days_RL_Challenge#week-4---policy-gradient-methods-and-a2c)**
+ - **[Week 5 - Advanced Policy Gradients - TRPO & PPO](https://github.com/andri27-ts/60_Days_RL_Challenge#week-5---advanced-policy-gradients---trpo--ppo)**
+ - **[Week 6 - Evolution Strategies and Genetic Algorithms](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)**
+ - **[Week 7 - Model-Based reinforcement learning](https://github.com/andri27-ts/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)**
+ - **[]()**
+ - **[Best resources](https://github.com/andri27-ts/60_Days_RL_Challenge#best-resources)**
+ - **[Additional resources](https://github.com/andri27-ts/60_Days_RL_Challenge#additional-resources)**
 
 ## Week 1 - Introduction
 
@@ -323,12 +328,9 @@ NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](ht
 
 <br>
 
-## Week 8 - AlphaGoZero + Bonus
+## Week 8 - Advanced concepts and project of your choice
 
 ## Last 4 days - Review + sharing
-
-
-## Best RL papers
 
 ## Best resources
 
