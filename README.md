@@ -40,6 +40,7 @@ This is my first project of this kind, so please, if you have any idea, suggesti
  - **[Week 6 - Evolution Strategies and Genetic Algorithms](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)**
  - **[Week 7 - Model-Based reinforcement learning](https://github.com/andri27-ts/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)**
  - **[Week 8 - Advanced concepts and project of your choice](https://github.com/andri27-ts/60_Days_RL_Challenge#week-8---advanced-concepts-and-project-of-your-choice)**
+ - **[Last 4 days - Review + sharing](https://github.com/andri27-ts/60_Days_RL_Challenge#last-4-days---review--sharing)**
  - **[Best resources](https://github.com/andri27-ts/60_Days_RL_Challenge#best-resources)**
  - **[Additional resources](https://github.com/andri27-ts/60_Days_RL_Challenge#additional-resources)**
 
