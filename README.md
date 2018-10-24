@@ -3,7 +3,6 @@
 
 ![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
 
-<br>
 
 ### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in Depth in 60 days!!
 
@@ -39,8 +38,8 @@ This is my first project of this kind, so please, if you have any idea, suggesti
  - **[Week 5 - Advanced Policy Gradients - TRPO & PPO](https://github.com/andri27-ts/60_Days_RL_Challenge#week-5---advanced-policy-gradients---trpo--ppo)**
  - **[Week 6 - Evolution Strategies and Genetic Algorithms](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)**
  - **[Week 7 - Model-Based reinforcement learning](https://github.com/andri27-ts/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)**
- - **[Week 8 - Advanced concepts and project of your choice](https://github.com/andri27-ts/60_Days_RL_Challenge#week-8---advanced-concepts-and-project-of-your-choice)**
- - **[Last 4 days - Review + sharing](https://github.com/andri27-ts/60_Days_RL_Challenge#last-4-days---review--sharing)**
+ - **[Week 8 - Advanced Concepts and Project Of Your Choice](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#week-8---advanced-concepts-and-project-of-your-choice)**
+ - **[Last 4 days - Review + Sharing](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#last-4-days---review--sharing)**
  - **[Best resources](https://github.com/andri27-ts/60_Days_RL_Challenge#best-resources)**
  - **[Additional resources](https://github.com/andri27-ts/60_Days_RL_Challenge#additional-resources)**
 
