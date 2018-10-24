@@ -1,7 +1,7 @@
 
 ![](images/logo5.png)
 
-![](https://img.shields.io/badge/Uploading-90%25-blue.svg)  
+![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
 
 <br>
 
@@ -328,9 +328,55 @@ NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](ht
 
 <br>
 
-## Week 8 - Advanced concepts and project of your choice
+## Week 8 - Advanced Concepts and Project Of Your Choice
 
-## Last 4 days - Review + sharing
+This last week is about advanced RL concepts and a project of your choice.
+
+----
+
+### Material
+
+- Sergey Levine (Berkley)
+  - [Connection between inference and control](https://www.youtube.com/watch?v=iOYiPhu5GEk&index=13&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
+  - [Inverse reinforcement learning](https://www.youtube.com/watch?v=-3BcZwgmZLk&index=14&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
+  - [Exploration (part 1)](https://www.youtube.com/watch?v=npi6B4VQ-7s&index=16&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
+  - [Exploration (part 2) and transfer learning](https://www.youtube.com/watch?v=0WbVUvKJpg4&index=17&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
+  - [Multi-task learning and transfer](https://www.youtube.com/watch?v=UqSx23W9RYE&index=18&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
+  - [Meta-learning and parallelism](https://www.youtube.com/watch?v=Xe9bktyYB34&index=18&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
+  - [Advanced imitation learning and open problems](https://www.youtube.com/watch?v=mc-DtbhhiKA&index=20&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
+- David Silver (Deepmind)
+  - [Classic Games](https://www.youtube.com/watch?v=N1LKLc6ufGY&feature=youtu.be)
+
+
+ ---
+
+### The final project
+Here you can find some project ideas.
+ - [Pommerman](https://www.pommerman.com/) (Multiplayer)
+ - [AI for Prosthetics Challenge](https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge) (Challenge)
+ - [Word Models](https://worldmodels.github.io/) (Paper implementation)
+ - [Request for research OpenAI](https://blog.openai.com/requests-for-research-2/) (Research)
+ - [Retro Contest](https://blog.openai.com/retro-contest/) (Transfer learning)
+
+
+---
+
+#### Suggested
+* AlphaGo Zero
+  - [Paper](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
+  - DeepMind blog post: [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/)
+  - Arxiv Insights video: [How AlphaGo Zero works - Google DeepMind](https://www.youtube.com/watch?v=MgowR4pq3e8)
+* OpenAI Five
+  - OpenAI blog post: [OpenAI Five](https://blog.openai.com/openai-five/)
+  - Arxiv Insights video: [OpenAI Five: Facing Human Pro's in Dota II](https://www.youtube.com/watch?v=0eO2TSVVP1Y)
+
+<br>
+
+## Last 4 days - Review + Sharing
+
+Congratulation for completing the 60 Days RL Challenge!! Let me know if you enjoyed it and share it!
+
+See you!
 
 ## Best resources
 
