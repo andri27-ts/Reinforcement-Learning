@@ -16,19 +16,20 @@ This repository wants to guide you through the Deep Reinforcement Learning algor
 
 <br>
 
-During the whole challenge, I will **update continuously** this repository..
-
-**.. so stay tuned** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
+**Stay tuned** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
 #### #60DaysRLChallenge
 
 Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To get an invitation, email me at andrea.lonza@gmail.com
 
 This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
 
+
+To learn Deep Learning, Computer Vision or Natural Language Processing [check my 1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
+
 ### Prerequisites
 * Basic level of Python and PyTorch
-* Machine Learning
-* Basic knowledge in Deep Learning (MLP, CNN and RNN)
+* [Machine Learning](https://github.com/andri27-ts/1-Year-ML-Journey)
+* [Basic knowledge in Deep Learning (MLP, CNN and RNN)](https://github.com/andri27-ts/1-Year-ML-Journey)
 
 ## Index
  - **[Week 1 - Introduction](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)**
