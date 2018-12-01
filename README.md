@@ -144,7 +144,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 ### Project of the Week
 
-[**DQN and some variants applied to Pong**](Week3/README.md)
+[**DQN and some variants applied to Pong**](Week3)
 
 This week the goal is to develop a DQN algorithm to play an Atari game. To make it more interesting I developed three extensions of DQN: **Double Q-learning**, **Multi-step learning**, **Dueling networks** and **Noisy Nets**. Play with them, and if you feel confident, you can implement Prioritized replay, Dueling networks or Distributional RL. To know more about these improvements read the papers!
 
