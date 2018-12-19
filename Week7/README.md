@@ -19,7 +19,7 @@ The pseudocode of the main loop is the following:
 
 ![animation](imgs/animation.gif)
 
-To train RoboschoolAnt-v1 no aggregation steps has been used.
+To train RoboschoolAnt-v1, no aggregation steps has been used.
 On RoboschoolAnt, playing 10.000 games it achieves a mean reward of about 800. These games have been played only taking random actions.
 
 
