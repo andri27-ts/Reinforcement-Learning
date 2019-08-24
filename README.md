@@ -229,7 +229,7 @@ This week is about advanced policy gradient methods that improve the stability a
 
 ### Project of the Week - [**PPO**](Week5)
 
-[**PPO applied to play BipedalWalker**](Week5) - This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder Week5 you find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
+[**PPO applied to BipedalWalker**](Week5) - This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder Week5 you find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
 Furthermore, in the folder you can find other resources that will help you in the development of the project. Have fun!
 
 To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) and take a look at the [Arxiv Insights's video](https://www.youtube.com/watch?v=5P7I-xPq8u8)
