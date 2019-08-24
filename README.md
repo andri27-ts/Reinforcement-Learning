@@ -138,9 +138,12 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 ### Project of the Week - [**DQN and variants**](Week3)
 
-<img src="Week3/imgs/pong_gif.gif" alt="drawing" width="200"/>
+
+<img align="left" src="Week3/imgs/pong_gif.gif" alt="drawing" width="200"/> 
 
 [**DQN and some variants applied to Pong**](Week3) - This week the goal is to develop a DQN algorithm to play an Atari game. To make it more interesting I developed three extensions of DQN: **Double Q-learning**, **Multi-step learning**, **Dueling networks** and **Noisy Nets**. Play with them, and if you feel confident, you can implement Prioritized replay, Dueling networks or Distributional RL. To know more about these improvements read the papers!
+
+<br clear="left"/>
 
 -----
 
@@ -231,12 +234,14 @@ This week is about advanced policy gradient methods that improve the stability a
 
 ### Project of the Week - [**PPO**](Week5)
 
+<img align="left" src="Week5/imgs/walker_gif.gif" alt="drawing" width="300"/> 
+
 [**PPO applied to BipedalWalker**](Week5) - This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder Week5 you find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
 Furthermore, in the folder you can find other resources that will help you in the development of the project. Have fun!
 
-To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) and take a look at the [Arxiv Insights's video](https://www.youtube.com/watch?v=5P7I-xPq8u8)
+<br clear="left"/>
 
-NB: the hyperparameters of the PPO implementation I released, can be tuned to improve the convergence.
+To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) and take a look at the [Arxiv Insights's video](https://www.youtube.com/watch?v=5P7I-xPq8u8)
 
 ---
 
@@ -273,9 +278,13 @@ In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been
 
 ### Project of the Week - [**ES**](Week6)
 
+<img align="left" src="Week6/imgs/LunarLanderContinuous.gif" alt="drawing" width="300"/> 
+
 [**Evolution Strategies applied to LunarLander**](Week6) - This week the project is to implement a ES or GA.
 In the [**Week6 folder**](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
 Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf) to solve LunarLanderContinuous. You can modify it to play more difficult environments or add your ideas.
+
+<br clear="left"/>
 
 ---
 
@@ -316,11 +325,15 @@ The algorithms studied up to now are model-free, meaning that they only choose t
 
 ---
 
-### Project of the Week - [**MBMF**](Week7)
+### Project of the Week - [**MB-MF**](Week7)
+
+<img align="left" src="Week7/imgs/animation.gif" alt="drawing" width="300"/> 
 
 [**MB-MF applied to RoboschoolAnt**](Week7) - This week I chose to implement the model-based algorithm described in this [paper](https://arxiv.org/pdf/1708.02596.pdf).
 You can find my implementation [here](Week7).
 NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](https://github.com/openai/roboschool), an open-source simulator for robot, integrated with OpenAI Gym.
+
+<br clear="left"/>
 
 ---
 
