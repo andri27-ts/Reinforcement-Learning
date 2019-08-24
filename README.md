@@ -26,6 +26,7 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 To learn Deep Learning, Computer Vision or Natural Language Processing [check my 1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
 
+
 ### Prerequisites
 * Basic level of Python and PyTorch
 * [Machine Learning](https://github.com/andri27-ts/1-Year-ML-Journey)
@@ -93,9 +94,9 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ----
 
-### Project of the Week [Q-learning](Week2/frozenlake_Qlearning.ipynb)
+### Project of the Week - [**Q-learning**](Week2/frozenlake_Qlearning.ipynb)
 
-[Q-learning applied to FrozenLake](Week2/frozenlake_Qlearning.ipynb). 
+[**Q-learning applied to FrozenLake**](Week2/frozenlake_Qlearning.ipynb). 
 For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed.
 
 ----
@@ -143,7 +144,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 ----
 
-### Project of the Week
+### Project of the Week - [**DQN and variants**](Week3)
 
 [**DQN and some variants applied to Pong**](Week3)
 
@@ -188,10 +189,11 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
 
 ---
 
-### Project of the Week
+### Project of the Week - [**Vanilla PG and A2C**](Week4)
 
-[**Vanilla PG and A2C**](Week4)
-The exercise of this week is to implement a policy gradient method or a more sophisticated actor-critic. In the repository you can find an implemented version of PG and A2C. Pay attention that A2C give me strange result. You can try to make it works or implement an [asynchronous version of A2C (A3C)](https://arxiv.org/pdf/1602.01783.pdf).
+[**Vanilla PG and A2C applied to CartPole**](Week4)
+The exercise of this week is to implement a policy gradient method or a more sophisticated actor-critic. In the repository you can find an implemented version of [PG and A2C](Week4). Bug Alert! Pay attention that A2C give me strange result. 
+If you find the implementation of PG and A2C easy, you can try with the [asynchronous version of A2C (A3C)](https://arxiv.org/pdf/1602.01783.pdf).
 
 ---
 
@@ -230,9 +232,10 @@ This week is about advanced policy gradient methods that improve the stability a
 
 ---
 
-### Project of the Week
+### Project of the Week - [**PPO**](Week5)
 
-This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder [**Week5**](Week5) you can find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
+[**PPO applied to play BipedalWalker**](Week5)
+This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder Week5 you find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
 Furthermore, in the folder you can find other resources that will help you in the development of the project. Have fun!
 
 To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) and take a look at the [Arxiv Insights's video](https://www.youtube.com/watch?v=5P7I-xPq8u8)
@@ -273,9 +276,11 @@ In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been
 
 ---
 
-### Project of the Week
+### Project of the Week - [**ES**](Week6)
+
+[**Evolution Strategies applied to LunarLander**](Week6)
 The project is to implement a ES or GA.
-In the [**Week6 repository**](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
+In the [**Week6 folder**](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
 Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf) to solve LunarLanderContinuous. You can modify it to play more difficult environments or add your ideas.
 
 <br>
@@ -316,9 +321,10 @@ The algorithms studied up to now are model-free, meaning that they only choose t
 
 ---
 
-### Project of the Week
+### Project of the Week - [**MBMF**](Week7)
 
-As a [project](Week7), I chose to implement the model-based algorithm described in this [paper](https://arxiv.org/pdf/1708.02596.pdf).
+[**MB-MF applied to RoboschoolAnt**](Week7)
+This week I chose to implement the model-based algorithm described in this [paper](https://arxiv.org/pdf/1708.02596.pdf).
 You can find my implementation [here](Week7).
 NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](https://github.com/openai/roboschool), an open-source simulator for robot, integrated with OpenAI Gym.
 
