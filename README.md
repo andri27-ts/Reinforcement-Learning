@@ -28,11 +28,12 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 
 ### A cup of Coffe
 
-How many cup of coffee :coffee: is this repository worth to you?
-I hope more it's a double (or triple) digit number! 
+How many cup of coffee :coffee: is this repository worth to you?  
+I hope more it's a double (or triple) digit number!   
 
-Btw, I really appreciate coffee :stuck_out_tongue_winking_eye:
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/andrealonza)
+<br/>
+Btw, I really appreciate coffee :stuck_out_tongue_winking_eye:  
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NKSNP93CNY4KN&source=url)
 
 ### Prerequisites
 * Basic level of Python and PyTorch
