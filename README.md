@@ -29,7 +29,7 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 ### A cup of Coffe
 
 How many cup of coffee :coffee: is this repository worth to you?  
-I hope more it's a double (or triple) digit number!   
+I hope it's a double (or triple) digit number!   
 
 <br/>
 Btw, I really appreciate coffee :stuck_out_tongue_winking_eye:
@@ -80,7 +80,7 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ----
 
-### Theoretical material
+### Lectures - Theory
 
 * **[Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)** RL by David Silver
   * Markov Processes
@@ -121,9 +121,8 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 ----
 
-### Theoretical material
+### Lectures - Theory
 
-#### Lectures
 - **[Value functions approximation](https://www.youtube.com/watch?v=UoPei5o4fps&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=6) - RL by David Silver**
   - Differentiable function approximators
   - Incremental methods
@@ -169,9 +168,7 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
 
 ----
 
-### Theoretical material
-
-#### Lectures
+### Lectures - Theory
 
 * **[Policy gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7) - RL by David Silver**
   - Finite Difference Policy Gradient
@@ -214,9 +211,7 @@ This week is about advanced policy gradient methods that improve the stability a
 
 ----
 
-### Theoretical material
-
-#### Lectures
+### Lectures - Theory
 
 - **[Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - CS294-112 by Sergey Levine**
   - Problems with "Vanilla" Policy Gradient Methods
@@ -262,7 +257,7 @@ In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been
 
 ----
 
-### Material
+### Lectures & Articles - Theory
 
 - **Evolution Strategies**
   - [Intro to ES: A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
@@ -295,7 +290,7 @@ The algorithms studied up to now are model-free, meaning that they only choose t
 
 ----
 
-### Material
+### Lectures - Theory
 
 - **Model-Based RL by Davide Silver (Deepmind) (concise version)**
   - [Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc&index=8&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -344,7 +339,7 @@ This last week is about advanced RL concepts and a project of your choice.
 
 ----
 
-### Material
+### Lectures - Theory
 
 - Sergey Levine (Berkley)
   - [Connection between inference and control](https://www.youtube.com/watch?v=iOYiPhu5GEk&index=13&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
