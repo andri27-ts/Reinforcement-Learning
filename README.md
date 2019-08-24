@@ -93,9 +93,10 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ----
 
-### Project of the Week
+### Project of the Week [Q-learning](Week2/frozenlake_Qlearning.ipynb)
 
-[Q-learning applied to FrozenLake](Week2/frozenlake_Qlearning.ipynb). For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed.
+[Q-learning applied to FrozenLake](Week2/frozenlake_Qlearning.ipynb). 
+For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed.
 
 ----
 
