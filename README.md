@@ -26,6 +26,13 @@ This is my first project of this kind, so please, if you have any idea, suggesti
 
 To learn Deep Learning, Computer Vision or Natural Language Processing [check my 1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
 
+### A cup of Coffe
+
+How many cup of coffee :coffee: is this repository worth to you?
+I hope more it's a double (or triple) digit number! 
+
+Btw, I really appreciate coffee :stuck_out_tongue_winking_eye:
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/andrealonza)
 
 ### Prerequisites
 * Basic level of Python and PyTorch
@@ -55,7 +62,7 @@ To learn Deep Learning, Computer Vision or Natural Language Processing [check my
 
 ---
 
-#### Suggested
+#### Other Resources
 
 - Great introductory paper: [Deep Reinforcement Learning: An Overview](https://www.groundai.com/project/deep-reinforcement-learning-an-overview/)
 - Start coding: [From Scratch: AI Balancing Act in 50 Lines of Python](https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717)
@@ -96,12 +103,11 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ### Project of the Week - [**Q-learning**](Week2/frozenlake_Qlearning.ipynb)
 
-[**Q-learning applied to FrozenLake**](Week2/frozenlake_Qlearning.ipynb). 
-For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed.
+[**Q-learning applied to FrozenLake**](Week2/frozenlake_Qlearning.ipynb) - For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed.
 
 ----
 
-#### To know more
+#### Other Resources
 - :books: Read chapters 3,4,5,6,7 of [Reinforcement Learning An Introduction - Sutton, Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - :tv: [Value functions introduction](https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - DRL UC Berkley by Sergey Levine
 
@@ -127,6 +133,14 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
   - Continous actions (NAF,DDPG)
   - Pratical tips
 
+----
+
+### Project of the Week - [**DQN and variants**](Week3)
+
+[**DQN and some variants applied to Pong**](Week3) - This week the goal is to develop a DQN algorithm to play an Atari game. To make it more interesting I developed three extensions of DQN: **Double Q-learning**, **Multi-step learning**, **Dueling networks** and **Noisy Nets**. Play with them, and if you feel confident, you can implement Prioritized replay, Dueling networks or Distributional RL. To know more about these improvements read the papers!
+
+-----
+
 
 #### Papers
 
@@ -141,18 +155,8 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
  - [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf) - 2016
  - [Noisy networks for exploration](https://arxiv.org/pdf/1706.10295.pdf) - 2017
  - [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/pdf/1710.10044.pdf) - 2017
-
-----
-
-### Project of the Week - [**DQN and variants**](Week3)
-
-[**DQN and some variants applied to Pong**](Week3)
-
-This week the goal is to develop a DQN algorithm to play an Atari game. To make it more interesting I developed three extensions of DQN: **Double Q-learning**, **Multi-step learning**, **Dueling networks** and **Noisy Nets**. Play with them, and if you feel confident, you can implement Prioritized replay, Dueling networks or Distributional RL. To know more about these improvements read the papers!
-
------
-
-#### Suggested
+ 
+#### Other Resources
   - :tv: [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
 
 <br>
@@ -182,22 +186,21 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
   - Actor-Critic algorithm design (batch mode or online)
   - state-dependent baseline
 
+---
+
+### Project of the Week - [**Vanilla PG and A2C**](Week4)
+
+[**Vanilla PG and A2C applied to CartPole**](Week4) - The exercise of this week is to implement a policy gradient method or a more sophisticated actor-critic. In the repository you can find an implemented version of [PG and A2C](Week4). Bug Alert! Pay attention that A2C give me strange result. 
+If you find the implementation of PG and A2C easy, you can try with the [asynchronous version of A2C (A3C)](https://arxiv.org/pdf/1602.01783.pdf).
+
+---
+
 #### Papers
 
 - [Policy Gradient methods for reinforcement learning with function approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
 - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
----
-
-### Project of the Week - [**Vanilla PG and A2C**](Week4)
-
-[**Vanilla PG and A2C applied to CartPole**](Week4)
-The exercise of this week is to implement a policy gradient method or a more sophisticated actor-critic. In the repository you can find an implemented version of [PG and A2C](Week4). Bug Alert! Pay attention that A2C give me strange result. 
-If you find the implementation of PG and A2C easy, you can try with the [asynchronous version of A2C (A3C)](https://arxiv.org/pdf/1602.01783.pdf).
-
----
-
-#### Suggested
+#### Other Resources
   - :books: [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
   - :books: [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
@@ -225,17 +228,11 @@ This week is about advanced policy gradient methods that improve the stability a
   * Trust Region Policy Optimization, TRPO
   * Proximal Policy Optimization, PPO
 
-#### Papers
-
-- [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - 2015
-- [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) - 2017
-
 ---
 
 ### Project of the Week - [**PPO**](Week5)
 
-[**PPO applied to play BipedalWalker**](Week5)
-This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder Week5 you find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
+[**PPO applied to play BipedalWalker**](Week5) - This week, you have to implement PPO or TRPO. I suggest PPO given its simplicity (compared to TRPO). In the project folder Week5 you find an implementation of [**PPO that learn to play BipedalWalker**](Week5).
 Furthermore, in the folder you can find other resources that will help you in the development of the project. Have fun!
 
 To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) and take a look at the [Arxiv Insights's video](https://www.youtube.com/watch?v=5P7I-xPq8u8)
@@ -244,7 +241,12 @@ NB: the hyperparameters of the PPO implementation I released, can be tuned to im
 
 ---
 
-#### Suggested
+#### Papers
+
+- [Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477.pdf) - 2015
+- [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) - 2017
+
+#### Other Resources
   - :books: To better understand PPO and TRPO: [The Pursuit of (Robotic) Happiness](https://towardsdatascience.com/the-pursuit-of-robotic-happiness-how-trpo-and-ppo-stabilize-policy-gradient-methods-545784094e3b)
   - :tv: [Nuts and Bolts of Deep RL](https://www.youtube.com/watch?v=8EcdaCk9KaQ&)
   - :books: PPO best practice: [Training with Proximal Policy Optimization](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md)
@@ -268,21 +270,21 @@ In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been
 - **Genetic Algorithms**
   - [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 
+---
+
+### Project of the Week - [**ES**](Week6)
+
+[**Evolution Strategies applied to LunarLander**](Week6) - This week the project is to implement a ES or GA.
+In the [**Week6 folder**](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
+Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf) to solve LunarLanderContinuous. You can modify it to play more difficult environments or add your ideas.
+
+---
 
 #### Papers
 
  - [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/pdf/1712.06567.pdf)
  - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf)
-
----
-
-### Project of the Week - [**ES**](Week6)
-
-[**Evolution Strategies applied to LunarLander**](Week6)
-The project is to implement a ES or GA.
-In the [**Week6 folder**](Week6) you can find a basic implementation of the paper [Evolution Strategies as a
-Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf) to solve LunarLanderContinuous. You can modify it to play more difficult environments or add your ideas.
-
+ 
 <br>
 
 ## Week 7 - Model-Based reinforcement learning
@@ -313,24 +315,23 @@ The algorithms studied up to now are model-free, meaning that they only choose t
     - Inverse models
 
 
-#### Papers
-
- - [Imagination-Augmented Agents for Deep Reinforcement Learning - 2017](https://arxiv.org/pdf/1707.06203.pdf)
- - [Reinforcement learning with unsupervised auxiliary tasks - 2016](https://arxiv.org/pdf/1611.05397.pdf)
- - [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning - 2018](https://arxiv.org/pdf/1708.02596.pdf)
-
 ---
 
 ### Project of the Week - [**MBMF**](Week7)
 
-[**MB-MF applied to RoboschoolAnt**](Week7)
-This week I chose to implement the model-based algorithm described in this [paper](https://arxiv.org/pdf/1708.02596.pdf).
+[**MB-MF applied to RoboschoolAnt**](Week7) - This week I chose to implement the model-based algorithm described in this [paper](https://arxiv.org/pdf/1708.02596.pdf).
 You can find my implementation [here](Week7).
 NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](https://github.com/openai/roboschool), an open-source simulator for robot, integrated with OpenAI Gym.
 
 ---
 
-#### Suggested
+#### Papers
+
+ - [Imagination-Augmented Agents for Deep Reinforcement Learning - 2017](https://arxiv.org/pdf/1707.06203.pdf)
+ - [Reinforcement learning with unsupervised auxiliary tasks - 2016](https://arxiv.org/pdf/1611.05397.pdf)
+ - [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning - 2018](https://arxiv.org/pdf/1708.02596.pdf)
+ 
+#### Other Resources
   - :books: [World Models - Can agents learn inside of their own dreams?](https://worldmodels.github.io/)
 
 <br>
@@ -368,7 +369,7 @@ Here you can find some project ideas.
 
 ---
 
-#### Suggested
+#### Other Resources
 * AlphaGo Zero
   - [Paper](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
   - DeepMind blog post: [AlphaGo Zero: Learning from scratch](https://deepmind.com/blog/alphago-zero-learning-scratch/)
