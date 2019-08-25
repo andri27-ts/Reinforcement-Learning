@@ -57,7 +57,7 @@ Any contribution is higly appreciated!!
 ## Week 1 - Introduction
 
 - **[An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights**
-- **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine**
+- **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine, Berkley**
 - **[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**
 
 ---
@@ -80,20 +80,20 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ### Lectures - Theory
 
-* **[Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)** RL by David Silver
+* **[Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2) - David Silver (DeepMind)**
   * Markov Processes
   * Markov Decision Processes
 
-- **[Planning by Dynamic Programming](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3)**  RL by David Silver
+- **[Planning by Dynamic Programming](https://www.youtube.com/watch?v=Nd1-UUMVfz4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=3) - David Silver (DeepMind)**
   * Policy iteration
   * Value iteration
 
-* **[Model-Free Prediction](https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-)**  RL by David Silver
+* **[Model-Free Prediction](https://www.youtube.com/watch?v=PnHCvfgC_ZA&index=4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-) - David Silver (DeepMind)**
   * Monte Carlo Learning
   * Temporal Difference Learning
   * TD(λ)
 
-- **[Model-Free Control](https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5)**  RL by David Silver
+- **[Model-Free Control](https://www.youtube.com/watch?v=0g4j2k_Ggc4&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=5) - David Silver (DeepMind)**
   * Ɛ-greedy policy iteration
   * GLIE Monte Carlo Search
   * SARSA
@@ -121,12 +121,12 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 ### Lectures - Theory
 
-- **[Value functions approximation](https://www.youtube.com/watch?v=UoPei5o4fps&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=6) - RL by David Silver**
+- **[Value functions approximation](https://www.youtube.com/watch?v=UoPei5o4fps&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=6) - David Silver (DeepMind)**
   - Differentiable function approximators
   - Incremental methods
   - Batch methods (DQN)
 
-* **[Advanced Q-learning algorithms](https://www.youtube.com/watch?v=nZXC5OdDfs4&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=7) - DRL UC Berkley by Sergey Levine**
+* **[Advanced Q-learning algorithms](https://www.youtube.com/watch?v=nZXC5OdDfs4&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=7) - Sergey Levine (UC Berkley)**
   - Replay Buffer
   - Double Q-learning
   - Continous actions (NAF,DDPG)
@@ -173,16 +173,16 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
 
 ### Lectures - Theory
 
-* **[Policy gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7) - RL by David Silver**
+* **[Policy gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7) - David Silver (DeepMind)**
   - Finite Difference Policy Gradient
   - Monte-Carlo Policy Gradient
   - Actor-Critic Policy Gradient
 
-- **[Policy gradient intro](https://www.youtube.com/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3) - CS294-112 by Sergey Levine (RECAP, optional)**
+- **[Policy gradient intro](https://www.youtube.com/watch?v=XGmd3wcyDg8&t=0s&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=3) - Sergey Levine (RECAP, optional)**
   - Policy Gradient (REINFORCE and Vanilla PG)
   - Variance reduction
 
-* **[Actor-Critic](https://www.youtube.com/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4) - CS294-112 by Sergey Levine (More in depth)**
+* **[Actor-Critic](https://www.youtube.com/watch?v=Tol_jw5hWnI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=4) - Sergey Levine (More in depth)**
   - Actor-Critic
   - Discout factor
   - Actor-Critic algorithm design (batch mode or online)
@@ -216,13 +216,13 @@ This week is about advanced policy gradient methods that improve the stability a
 
 ### Lectures - Theory
 
-- **[Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - CS294-112 by Sergey Levine**
+- **[Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - Sergey Levine (UC Berkley)**
   - Problems with "Vanilla" Policy Gradient Methods
   - Policy Performance Bounds
   - Monotonic Improvement Theory
   - Algorithms: NPO, TRPO, PPO
 
-* **[Natural Policy Gradients, TRPO, PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) - John Schulman, Berkey DRL Bootcamp - (RECAP, optional)**
+* **[Natural Policy Gradients, TRPO, PPO](https://www.youtube.com/watch?v=xvRrgxcpaHY) - John Schulman (Berkey DRL Bootcamp)** - (RECAP, optional)
   * Limitations of "Vanilla" Policy Gradient Methods
   * Natural Policy Gradient
   * Trust Region Policy Optimization, TRPO
@@ -301,12 +301,12 @@ The algorithms studied up to now are model-free, meaning that they only choose t
 
 ### Lectures - Theory
 
-- **Model-Based RL by Davide Silver (Deepmind) (concise version)**
+- **Model-Based RL, David Silver (DeepMind) (concise version)**
   - [Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc&index=8&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
     - Model-Based RL Overview
     - Integrated architectures
     - Simulation-Based search
-- **Model-Based RL by Sergey Levine (Berkley) (in depth version)**
+- **Model-Based RL, Sergey Levine (UC Berkley) (in depth version)**
   - [Learning dynamical systems from data](https://www.youtube.com/watch?v=yap_g0d7iBQ&index=9&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
     - Overview of model-based RL
     - Global and local models
@@ -362,7 +362,7 @@ This last week is about advanced RL concepts and a project of your choice.
   - [Multi-task learning and transfer](https://www.youtube.com/watch?v=UqSx23W9RYE&index=18&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
   - [Meta-learning and parallelism](https://www.youtube.com/watch?v=Xe9bktyYB34&index=18&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
   - [Advanced imitation learning and open problems](https://www.youtube.com/watch?v=mc-DtbhhiKA&index=20&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
-- David Silver (Deepmind)
+- David Silver (DeepMind)
   - [Classic Games](https://www.youtube.com/watch?v=N1LKLc6ufGY&feature=youtu.be)
 
 
