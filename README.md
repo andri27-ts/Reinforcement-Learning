@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
 
 
-### I designed this Challenge for you and me: LEARN DEEP REINFORCEMENT LEARNING in Depth!! Courses & Lectures + Hands-On Projects in Python and PyTorch. From simple to advanced RL algorithms.
+### Challenge for you and me: LEARNING DEEP REINFORCEMENT LEARNING in depth!! Courses & Lectures + Hands-On Projects in Python and PyTorch. From simple to advanced RL algorithms.
 
 You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
 This is the right opportunity for you and me to finally learn Deep RL and use it on new exciting projects.
@@ -32,17 +32,18 @@ Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To
 
 To learn Deep Learning, Computer Vision or Natural Language Processing check my [1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
 
-### A cup of Coffe :coffee:
-
-How many cup of coffee is this repository worth to you?  
-I hope it's a double (or triple) digit number! Any contribution is higly appreciated!!
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NKSNP93CNY4KN)
-
-### Prerequisites
+### Before starting.. Prerequisites
 * Basic level of Python and PyTorch
 * [Machine Learning](https://github.com/andri27-ts/1-Year-ML-Journey)
 * [Basic knowledge in Deep Learning (MLP, CNN and RNN)](https://github.com/andri27-ts/1-Year-ML-Journey)
+
+
+## A cup of Coffe :coffee:
+
+Any contribution is higly appreciated! Cheers!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NKSNP93CNY4KN)  
+
 
 ## Index
  
@@ -416,3 +417,10 @@ See you!
 :books: [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl). A curated list of resources dedicated to reinforcement learning
 
 :books: [GroundAI on RL](https://www.groundai.com/?text=reinforcement+learning). Papers on reinforcement learning
+
+
+## A cup of Coffe :coffee:
+
+Any contribution is higly appreciated! Cheers!
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NKSNP93CNY4KN)
