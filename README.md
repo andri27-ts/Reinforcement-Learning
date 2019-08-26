@@ -12,25 +12,30 @@ This is the right opportunity for you and me to finally learn Deep RL and use it
 > The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems.
 > **Demis Hassabis**
 
-This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the **main topics organized by week** and the **resources suggested to learn them**. Also, every week I will provide **practical examples** implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!
+This repository contains:  
 
+<br>
+
+<img align="left" src="images/youtube_social_icon_dark.png" alt="drawing" width="64"/> Lectures (& other content) primarily from DeepMind and Berkley Youtube's Channel.  
+
+<br>
+
+<img align="left" src="images/GitHub-Mark-64px.png" alt="drawing" width="64"/> <br> Algorithms implementation tested on several environments.  
+
+
+<br>
 <br>
 
 **Stay tuned** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)  #60DaysRLChallenge
 
-Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To get an invitation, email me at andrea.lonza@gmail.com
+Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To get an invitation, email me at andrea.lonza@gmail.com. Also, email me if you have any idea, suggestion or improvement.  
 
-This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
+To learn Deep Learning, Computer Vision or Natural Language Processing check my [1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
 
+### A cup of Coffe :coffee:
 
-To learn Deep Learning, Computer Vision or Natural Language Processing [check my 1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
-
-### A cup of Coffe
-
-How many cup of coffee :coffee: is this repository worth to you?  
-I hope it's a double (or triple) digit number!   
-
-Any contribution is higly appreciated!!
+How many cup of coffee is this repository worth to you?  
+I hope it's a double (or triple) digit number! Any contribution is higly appreciated!!
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NKSNP93CNY4KN)
 
@@ -40,18 +45,18 @@ Any contribution is higly appreciated!!
 * [Basic knowledge in Deep Learning (MLP, CNN and RNN)](https://github.com/andri27-ts/1-Year-ML-Journey)
 
 ## Index
- - **[Week 1 - Introduction](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)**
- - **[Week 2 - RL Basics](https://github.com/andri27-ts/60_Days_RL_Challenge#week-2---rl-basics-mdp-dynamic-programming-and-model-free-control)**
- - **[Week 3 - Value Function Approximation and DQN](https://github.com/andri27-ts/60_Days_RL_Challenge#week-3---value-function-approximation-and-dqn)**
- - **[Week 4 - Policy gradient methods and A2C](https://github.com/andri27-ts/60_Days_RL_Challenge#week-4---policy-gradient-methods-and-a2c)**
- - **[Week 5 - Advanced Policy Gradients - TRPO & PPO](https://github.com/andri27-ts/60_Days_RL_Challenge#week-5---advanced-policy-gradients---trpo--ppo)**
- - **[Week 6 - Evolution Strategies and Genetic Algorithms](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)**
- - **[Week 7 - Model-Based reinforcement learning](https://github.com/andri27-ts/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)**
- - **[Week 8 - Advanced Concepts and Project Of Your Choice](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#week-8---advanced-concepts-and-project-of-your-choice)**
- - **[Last 4 days - Review + Sharing](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#last-4-days---review--sharing)**
- - **[Best resources](https://github.com/andri27-ts/60_Days_RL_Challenge#best-resources)**
- - **[Additional resources](https://github.com/andri27-ts/60_Days_RL_Challenge#additional-resources)**
-
+ 
+ - [Week 1 - **Introduction**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)
+ - [Week 2 - **RL Basics**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-2---rl-basics-mdp-dynamic-programming-and-model-free-control)
+ - [Week 3 - **Value based algorithms - DQN**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-3---value-function-approximation-and-dqn)
+ - [Week 4 - **Policy gradient algorithms - REINFORCE & A2C**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-4---policy-gradient-methods-and-a2c)
+ - [Week 5 - **Advanced Policy Gradients - PPO**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-5---advanced-policy-gradients---trpo--ppo)
+ - [Week 6 - **Evolution Strategies and Genetic Algorithms - ES**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)
+ - [Week 7 - **Model-Based reinforcement learning - MB-MF**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)
+ - [Week 8 - **Advanced Concepts and Project Of Your Choice**](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#week-8---advanced-concepts-and-project-of-your-choice)
+ - [Last 4 days - **Review + Sharing**](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#last-4-days---review--sharing)
+ - [Best resources](https://github.com/andri27-ts/60_Days_RL_Challenge#best-resources)
+ - [Additional resources](https://github.com/andri27-ts/60_Days_RL_Challenge#additional-resources)
 <br>
 
 ## Week 1 - Introduction
@@ -78,7 +83,8 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ----
 
-### Lectures - Theory
+### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
+
 
 * **[Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2) - David Silver (DeepMind)**
   * Markov Processes
@@ -101,7 +107,7 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ----
 
-### Project of the Week - [**Q-learning**](Week2/frozenlake_Qlearning.ipynb)
+### Project of the Week - [**Q-learning**](Week2/frozenlake_Qlearning.ipynb) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 [**Q-learning applied to FrozenLake**](Week2/frozenlake_Qlearning.ipynb) - For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed.
 
@@ -113,13 +119,13 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 <br>
 
-## Week 3 - Value Function Approximation and DQN
+## Week 3 - Value based algorithms - DQN
 
 This week we'll learn more advanced concepts and apply deep neural network to Q-learning algorithms.
 
 ----
 
-### Lectures - Theory
+### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
 - **[Value functions approximation](https://www.youtube.com/watch?v=UoPei5o4fps&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=6) - David Silver (DeepMind)**
   - Differentiable function approximators
@@ -134,7 +140,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 ----
 
-### Project of the Week - [**DQN and variants**](Week3)
+### Project of the Week - [**DQN and variants**](Week3) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 
 <img align="left" src="Week3/imgs/pong_gif.gif" alt="drawing" width="200"/> 
@@ -165,13 +171,13 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 <br>
 
-## Week 4 - Policy gradient methods and A2C
+## Week 4 - Policy gradient algorithms - REINFORCE & A2C
 
 Week 4 introduce Policy Gradient methods, a class of algorithms that optimize directly the policy. Also, you'll learn about Actor-Critic algorithms. These algorithms combine both policy gradient (the actor) and value function (the critic).
 
 ----
 
-### Lectures - Theory
+### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
 * **[Policy gradient Methods](https://www.youtube.com/watch?v=KHZVXao4qXs&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&index=7) - David Silver (DeepMind)**
   - Finite Difference Policy Gradient
@@ -190,7 +196,7 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
 
 ---
 
-### Project of the Week - [**Vanilla PG and A2C**](Week4)
+### Project of the Week - [**Vanilla PG and A2C**](Week4) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 [**Vanilla PG and A2C applied to CartPole**](Week4) - The exercise of this week is to implement a policy gradient method or a more sophisticated actor-critic. In the repository you can find an implemented version of [PG and A2C](Week4). Bug Alert! Pay attention that A2C give me strange result. 
 If you find the implementation of PG and A2C easy, you can try with the [asynchronous version of A2C (A3C)](https://arxiv.org/pdf/1602.01783.pdf).
@@ -208,13 +214,13 @@ If you find the implementation of PG and A2C easy, you can try with the [asynchr
 
 <br>
 
-## Week 5 - Advanced Policy Gradients - TRPO & PPO
+## Week 5 - Advanced Policy Gradients - PPO
 
 This week is about advanced policy gradient methods that improve the stability and the convergence of the "Vanilla" policy gradient methods. You'll learn and implement PPO, a RL algorithm developed by OpenAI and adopted in [OpenAI Five](https://blog.openai.com/openai-five/).
 
 ----
 
-### Lectures - Theory
+### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
 - **[Advanced policy gradients](https://www.youtube.com/watch?v=ycCtmp4hcUs&t=0s&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&index=15) - Sergey Levine (UC Berkley)**
   - Problems with "Vanilla" Policy Gradient Methods
@@ -230,7 +236,7 @@ This week is about advanced policy gradient methods that improve the stability a
 
 ---
 
-### Project of the Week - [**PPO**](Week5)
+### Project of the Week - [**PPO**](Week5) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 <img align="left" src="Week5/imgs/walker_gif.gif" alt="drawing" width="300"/> 
 
@@ -256,13 +262,13 @@ To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) a
 
 <br>
 
-## Week 6 - Evolution Strategies and Genetic Algorithms
+## Week 6 - Evolution Strategies and Genetic Algorithms - ES
 
 In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been shown to achieve comparable results to RL methods. They are derivate-free black-box algorithms that require more data than RL to learn but are able to scale up across thousands of CPUs. This week we'll look at this black-box algorithms.
 
 ----
 
-### Lectures & Articles - Theory
+### Lectures & Articles - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
 - **Evolution Strategies**
   - [Intro to ES: A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/)
@@ -274,7 +280,7 @@ In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been
 
 ---
 
-### Project of the Week - [**ES**](Week6)
+### Project of the Week - [**ES**](Week6) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 <img align="left" src="Week6/imgs/LunarLanderContinuous.gif" alt="drawing" width="300"/> 
 
@@ -293,13 +299,13 @@ Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864
  
 <br>
 
-## Week 7 - Model-Based reinforcement learning
+## Week 7 - Model-Based reinforcement learning - MB-MF
 
 The algorithms studied up to now are model-free, meaning that they only choose the better action given a state. These algorithms achieve very good performance but require a lot of training data. Instead, model-based algorithms, learn the environment and plan the next actions accordingly to the model learned. These methods are more sample efficient than model-free but overall achieve worst performance. In this week you'll learn the theory behind these methods and implement one of the last algorithms.
 
 ----
 
-### Lectures - Theory
+### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
 - **Model-Based RL, David Silver (DeepMind) (concise version)**
   - [Integrating Learning and Planning](https://www.youtube.com/watch?v=ItMutbeOHtc&index=8&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
@@ -323,7 +329,7 @@ The algorithms studied up to now are model-free, meaning that they only choose t
 
 ---
 
-### Project of the Week - [**MB-MF**](Week7)
+### Project of the Week - [**MB-MF**](Week7) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 <img align="left" src="Week7/imgs/animation.gif" alt="drawing" width="300"/> 
 
@@ -352,7 +358,7 @@ This last week is about advanced RL concepts and a project of your choice.
 
 ----
 
-### Lectures - Theory
+### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
 - Sergey Levine (Berkley)
   - [Connection between inference and control](https://www.youtube.com/watch?v=iOYiPhu5GEk&index=13&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3&t=0s)
