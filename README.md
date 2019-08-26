@@ -12,6 +12,7 @@ This is the right opportunity for you and me to finally learn Deep RL and use it
 > The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems.
 > **Demis Hassabis**
 
+
 This repository contains:  
 
 <br>
@@ -66,7 +67,7 @@ Any contribution is higly appreciated! Cheers!
 - **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine, Berkley**
 - **[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**
 
----
+##
 
 #### Other Resources
 
@@ -82,7 +83,7 @@ Any contribution is higly appreciated! Cheers!
 
 This week, we will learn about the basic blocks of reinforcement learning, starting from the definition of the problem all the way through the estimation and optimization of the functions that are used to express the quality of a policy or state.
 
-----
+##
 
 ### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
@@ -106,13 +107,13 @@ This week, we will learn about the basic blocks of reinforcement learning, start
   * SARSA
   * Importance Sampling
 
-----
+##
 
 ### Project of the Week - [**Q-learning**](Week2/frozenlake_Qlearning.ipynb) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 [**Q-learning applied to FrozenLake**](Week2/frozenlake_Qlearning.ipynb) - For exercise, you can solve the game using SARSA or implement Q-learning by yourself. In the former case, only few changes are needed.
 
-----
+##
 
 #### Other Resources
 - :books: Read chapters 3,4,5,6,7 of [Reinforcement Learning An Introduction - Sutton, Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
@@ -124,7 +125,7 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 This week we'll learn more advanced concepts and apply deep neural network to Q-learning algorithms.
 
-----
+##
 
 ### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
@@ -139,7 +140,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
   - Continous actions (NAF,DDPG)
   - Pratical tips
 
-----
+##
 
 ### Project of the Week - [**DQN and variants**](Week3) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
@@ -150,7 +151,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 <br clear="left"/>
 
------
+##
 
 
 #### Papers
@@ -176,7 +177,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
 
 Week 4 introduce Policy Gradient methods, a class of algorithms that optimize directly the policy. Also, you'll learn about Actor-Critic algorithms. These algorithms combine both policy gradient (the actor) and value function (the critic).
 
-----
+##
 
 ### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
@@ -195,14 +196,14 @@ Week 4 introduce Policy Gradient methods, a class of algorithms that optimize di
   - Actor-Critic algorithm design (batch mode or online)
   - state-dependent baseline
 
----
+##
 
 ### Project of the Week - [**Vanilla PG and A2C**](Week4) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
 [**Vanilla PG and A2C applied to CartPole**](Week4) - The exercise of this week is to implement a policy gradient method or a more sophisticated actor-critic. In the repository you can find an implemented version of [PG and A2C](Week4). Bug Alert! Pay attention that A2C give me strange result. 
 If you find the implementation of PG and A2C easy, you can try with the [asynchronous version of A2C (A3C)](https://arxiv.org/pdf/1602.01783.pdf).
 
----
+##
 
 #### Papers
 
@@ -219,7 +220,7 @@ If you find the implementation of PG and A2C easy, you can try with the [asynchr
 
 This week is about advanced policy gradient methods that improve the stability and the convergence of the "Vanilla" policy gradient methods. You'll learn and implement PPO, a RL algorithm developed by OpenAI and adopted in [OpenAI Five](https://blog.openai.com/openai-five/).
 
-----
+##
 
 ### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
@@ -235,7 +236,7 @@ This week is about advanced policy gradient methods that improve the stability a
   * Trust Region Policy Optimization, TRPO
   * Proximal Policy Optimization, PPO
 
----
+##
 
 ### Project of the Week - [**PPO**](Week5) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
@@ -248,7 +249,7 @@ Furthermore, in the folder you can find other resources that will help you in th
 
 To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) and take a look at the [Arxiv Insights's video](https://www.youtube.com/watch?v=5P7I-xPq8u8)
 
----
+##
 
 #### Papers
 
@@ -267,7 +268,7 @@ To learn more about PPO read the [paper](https://arxiv.org/pdf/1707.06347.pdf) a
 
 In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been shown to achieve comparable results to RL methods. They are derivate-free black-box algorithms that require more data than RL to learn but are able to scale up across thousands of CPUs. This week we'll look at this black-box algorithms.
 
-----
+##
 
 ### Lectures & Articles - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
@@ -279,7 +280,7 @@ In the last year, Evolution strategies (ES) and Genetic Algorithms (GA) has been
 - **Genetic Algorithms**
   - [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 
----
+##
 
 ### Project of the Week - [**ES**](Week6) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
@@ -291,7 +292,7 @@ Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864
 
 <br clear="left"/>
 
----
+##
 
 #### Papers
 
@@ -304,7 +305,7 @@ Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864
 
 The algorithms studied up to now are model-free, meaning that they only choose the better action given a state. These algorithms achieve very good performance but require a lot of training data. Instead, model-based algorithms, learn the environment and plan the next actions accordingly to the model learned. These methods are more sample efficient than model-free but overall achieve worst performance. In this week you'll learn the theory behind these methods and implement one of the last algorithms.
 
-----
+##
 
 ### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
@@ -328,7 +329,7 @@ The algorithms studied up to now are model-free, meaning that they only choose t
     - Inverse models
 
 
----
+##
 
 ### Project of the Week - [**MB-MF**](Week7) <img align="right" src="images/GitHub-Mark-64px.png" alt="drawing" width="48"/>
 
@@ -340,7 +341,7 @@ NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](ht
 
 <br clear="left"/>
 
----
+##
 
 #### Papers
 
@@ -357,7 +358,7 @@ NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](ht
 
 This last week is about advanced RL concepts and a project of your choice.
 
-----
+##
 
 ### Lectures - Theory <img align="right" src="images/youtube_social_icon_dark.png" alt="drawing" width="48"/> 
 
@@ -373,7 +374,7 @@ This last week is about advanced RL concepts and a project of your choice.
   - [Classic Games](https://www.youtube.com/watch?v=N1LKLc6ufGY&feature=youtu.be)
 
 
- ---
+##
 
 ### The final project
 Here you can find some project ideas.
@@ -383,8 +384,7 @@ Here you can find some project ideas.
  - [Request for research OpenAI](https://blog.openai.com/requests-for-research-2/) (Research)
  - [Retro Contest](https://blog.openai.com/retro-contest/) (Transfer learning)
 
-
----
+##
 
 #### Other Resources
 * AlphaGo Zero
