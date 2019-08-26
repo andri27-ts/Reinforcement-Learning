@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
 
 
-### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in Depth in 60 days!! Theory (from Berkley and DeepMind) + Hands-On Projects
+### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in Depth in 60 days!! Courses (Lectures from Berkley and DeepMind) + Hands-On Projects in Python and PyTorch. From simple to advanced RL algorithms.
 
 You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
 This is the right opportunity for you and me to finally learn Deep RL and use it on new exciting projects.
