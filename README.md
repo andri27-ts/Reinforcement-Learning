@@ -4,7 +4,8 @@
 ![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
 
 
-### Challenge for you and me: LEARNING DEEP REINFORCEMENT LEARNING in depth!! Courses & Lectures + Hands-On Projects in Python and PyTorch. From simple to advanced RL algorithms.
+## Challenge yourself: Learn Deep Reinforcement Learning in 60 Days! A complete course: Lectures + Hands-On Projects on GitHub in PyTorch. RL + Deep Learning, an explosive combination!
+
 
 You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
 This is the right opportunity for you and me to finally learn Deep RL and use it on new exciting projects.
@@ -17,17 +18,17 @@ This repository contains:
 
 <br>
 
-<img align="left" src="images/youtube_social_icon_dark.png" alt="drawing" width="64"/> Lectures (& other content) primarily from DeepMind and Berkley Youtube's Channel.  
+<img align="left" src="images/youtube_social_icon_dark.png" alt="drawing" width="64"/> **Lectures (& other content) primarily from DeepMind and Berkley Youtube's Channel.**
 
 <br>
 
-<img align="left" src="images/GitHub-Mark-64px.png" alt="drawing" width="64"/> <br> Algorithms implementation tested on several environments.  
+<img align="left" src="images/GitHub-Mark-64px.png" alt="drawing" width="64"/> **Algorithms (like DQN, A2C, and PPO) implemented in PyTorch and tested on OpenAI Gym: RoboSchool & Atari.**
 
 
 <br>
 <br>
 
-**Stay tuned** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)  #60DaysRLChallenge
+**Stay tuned and follow me on** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) or [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)  #60DaysRLChallenge
 
 Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To get an invitation, email me at andrea.lonza@gmail.com. Also, email me if you have any idea, suggestion or improvement.  
 
