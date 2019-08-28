@@ -7,8 +7,10 @@
 ## Challenge yourself: Learn Deep Reinforcement Learning in 60 Days! A complete course: Lectures + Hands-On Projects on GitHub in PyTorch. RL + Deep Learning, an explosive combination!
 
 
-You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
-This is the right opportunity for you and me to finally learn Deep RL and use it on new exciting projects.
+Have you heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)? It's all about deep neural networks and reinforcement learning. Do you want to know more about it?  
+This is the right opportunity for you to finally learn Deep RL and use it on new and exciting projects and applications.  
+
+Here you'll find an in depth introduction to these algorithms. Among which you'll learn q learning, deep q learning, PPO, actor critic, and implement them using Python.
 
 > The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems.
 > **Demis Hassabis**
@@ -47,7 +49,7 @@ Any contribution is higly appreciated! Cheers!
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NKSNP93CNY4KN)  
 
 
-## Index
+## Index - Reinforcement Learning
  
  - [Week 1 - **Introduction**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)
  - [Week 2 - **RL Basics**](https://github.com/andri27-ts/60_Days_RL_Challenge#week-2---rl-basics-mdp-dynamic-programming-and-model-free-control)
