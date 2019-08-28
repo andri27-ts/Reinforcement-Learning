@@ -417,6 +417,8 @@ See you!
 
 :books: [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl). A curated list of resources dedicated to reinforcement learning
 
+google-site-verification: google0c88806754f943fe.html
+
 :books: [GroundAI on RL](https://www.groundai.com/?text=reinforcement+learning). Papers on reinforcement learning
 
 
