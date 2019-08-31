@@ -74,6 +74,7 @@ Any contribution is higly appreciated! Cheers!
 
 #### Other Resources
 
+- :books: Chapter 1 from [the "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/2zDTGqf)
 - Great introductory paper: [Deep Reinforcement Learning: An Overview](https://www.groundai.com/project/deep-reinforcement-learning-an-overview/)
 - Start coding: [From Scratch: AI Balancing Act in 50 Lines of Python](https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717)
 
@@ -119,7 +120,7 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 ##
 
 #### Other Resources
-- :books: Read chapters 3,4,5,6,7 of [Reinforcement Learning An Introduction - Sutton, Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- :books: Chapters 3 and 4 from [the "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/2zDTGqf)
 - :tv: [Value functions introduction](https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - DRL UC Berkley by Sergey Levine
 
 <br>
@@ -172,6 +173,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
  - [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/pdf/1710.10044.pdf) - 2017
  
 #### Other Resources
+  - :books: Chapters 5 and 6 from [the "bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/2zDTGqf)
   - :tv: [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
 
 <br>
@@ -214,6 +216,7 @@ If you find the implementation of PG and A2C easy, you can try with the [asynchr
 - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
 #### Other Resources
+  - :books: Chapters 9 and 10 from [the "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/2zDTGqf)
   - :books: [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
   - :books: [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
@@ -302,6 +305,9 @@ Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864
  - [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/pdf/1712.06567.pdf)
  - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf)
  
+ #### Other Resources
+  - :books: [Evolutionary Optimization Algorithms](http://bit.ly/32hZSjQ)
+  
 <br>
 
 ## Week 7 - Model-Based reinforcement learning - MB-MF
@@ -353,6 +359,7 @@ NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](ht
  - [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning - 2018](https://arxiv.org/pdf/1708.02596.pdf)
  
 #### Other Resources
+  - :books: Chapter 8 from [the "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/2zDTGqf)
   - :books: [World Models - Can agents learn inside of their own dreams?](https://worldmodels.github.io/)
 
 <br>
@@ -408,11 +415,14 @@ See you!
 
 ## Best resources
 
+:books: [Reinforcement Learning: An Introduction](http://bit.ly/2zDTGqf) - by Sutton & Barto. The "Bible" of reinforcement learning. [Here](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) you can find the PDF draft of the second version.
+
+:books: [Deep Reinforcement Learning Hands-On](http://bit.ly/32ljAeS) - by Maxim Lapan
+
 :tv: [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - UC Berkeley class by Levine, check [here](http://rail.eecs.berkeley.edu/deeprlcourse/) their site.
 
 :tv: [Reinforcement Learning course](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) - by David Silver, DeepMind. Great introductory lectures by Silver, a lead researcher on AlphaGo. They follow the book Reinforcement Learning by Sutton & Barto.
 
-:notebook: [Reinforcement Learning: An Introduction](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262193981/ref=sr_1_2?s=books&ie=UTF8&qid=1535898372&sr=1-2&keywords=reinforcement+learning+sutton) - by Sutton & Barto. The "Bible" of reinforcement learning. [Here](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) you can find the PDF draft of the second version.
 
 
 ## Additional resources
