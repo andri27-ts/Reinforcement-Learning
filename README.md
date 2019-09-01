@@ -74,7 +74,7 @@ Any contribution is higly appreciated! Cheers!
 
 #### Other Resources
 
-- :books: [Chapter 1: The "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/32hi2lU)
+- :books: [Chapter 1: The "Bible" of Reinforcement Learning](http://bit.ly/2zHW7Z2) - Sutton & Barto
 - Great introductory paper: [Deep Reinforcement Learning: An Overview](https://www.groundai.com/project/deep-reinforcement-learning-an-overview/)
 - Start coding: [From Scratch: AI Balancing Act in 50 Lines of Python](https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717)
 
@@ -120,7 +120,7 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 ##
 
 #### Other Resources
-- :books: [Chapters 3 and 4: The "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/32hi2lU)
+- :books: [Chapters 3 and 4: The "Bible" of Reinforcement Learning](http://bit.ly/2zHW7Z2) - Sutton & Barto
 - :tv: [Value functions introduction](https://www.youtube.com/watch?v=k1vNh4rNYec&index=6&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - DRL UC Berkley by Sergey Levine
 
 <br>
@@ -173,7 +173,7 @@ This week we'll learn more advanced concepts and apply deep neural network to Q-
  - [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/pdf/1710.10044.pdf) - 2017
  
 #### Other Resources
-  - :books: [Chapters 5 and 6: The "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/32hi2lU)
+  - :books: [Chapters 5 and 6: The "Bible" of Reinforcement Learning](http://bit.ly/2zHW7Z2) - Sutton & Barto
   - :tv: [Deep Reinforcement Learning in the Enterprise: Bridging the Gap from Games to Industry](https://www.youtube.com/watch?v=GOsUHlr4DKE)
 
 <br>
@@ -216,7 +216,7 @@ If you find the implementation of PG and A2C easy, you can try with the [asynchr
 - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
 #### Other Resources
-  - :books: [Chapters 9 and 10: The "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/32hi2lU)
+  - :books: [Chapters 9 and 10: The "Bible" of Reinforcement Learning](http://bit.ly/2zHW7Z2) - Sutton & Barto
   - :books: [Intuitive RL: Intro to Advantage-Actor-Critic (A2C)](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)
   - :books: [Asynchronous Actor-Critic Agents (A3C)](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)
 
@@ -306,7 +306,7 @@ Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864
  - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf)
  
  #### Other Resources
-  - :books: [Evolutionary Optimization Algorithms](http://bit.ly/32hZSjQ)
+  - :books: [Evolutionary Optimization Algorithms](http://bit.ly/32todnd) - Dan Simon
   
 <br>
 
@@ -359,7 +359,7 @@ NB: Instead of implementing it on Mujoco as in the paper, I used [RoboSchool](ht
  - [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning - 2018](https://arxiv.org/pdf/1708.02596.pdf)
  
 #### Other Resources
-  - :books: [Chapter 8: The "Bible" of Reinforcement Learning - Sutton & Barto](http://bit.ly/32hi2lU)
+  - :books: [Chapter 8: The "Bible" of Reinforcement Learning](http://bit.ly/2zHW7Z2) - Sutton & Barto
   - :books: [World Models - Can agents learn inside of their own dreams?](https://worldmodels.github.io/)
 
 <br>
@@ -415,9 +415,11 @@ See you!
 
 ## Best resources
 
-:books: [Reinforcement Learning: An Introduction](http://bit.ly/32hi2lU) - by Sutton & Barto. The "Bible" of reinforcement learning. [Here](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) you can find the PDF draft of the second version.
+:books: [Reinforcement Learning: An Introduction](http://bit.ly/2zHW7Z2) - by Sutton & Barto. The "Bible" of reinforcement learning. [Here](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) you can find the PDF draft of the second version.
 
-:books: [Deep Reinforcement Learning Hands-On](http://bit.ly/2zLY32l) - by Maxim Lapan
+:books: [Deep Reinforcement Learning Hands-On](http://bit.ly/2zIAS9q) - by Maxim Lapan
+
+:books: [Deep Learning](http://bit.ly/32nW1BN) - Ian Goodfellow
 
 :tv: [Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - UC Berkeley class by Levine, check [here](http://rail.eecs.berkeley.edu/deeprlcourse/) their site.
 
