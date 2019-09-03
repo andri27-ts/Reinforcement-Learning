@@ -1,5 +1,5 @@
 
-![](images/logo5.png)
+![](images/title3.png)
 
 ![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
 
@@ -10,7 +10,7 @@
 Have you heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)? It's all about deep neural networks and reinforcement learning. Do you want to know more about it?  
 This is the right opportunity for you to finally learn Deep RL and use it on new and exciting projects and applications.  
 
-Here you'll find an in depth introduction to these algorithms. Among which you'll learn q learning, deep q learning, PPO, actor critic, and implement them using Python.
+Here you'll find an in depth introduction to these algorithms. Among which you'll learn q learning, deep q learning, PPO, actor critic, and implement them using Python and PyTorch.
 
 > The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems.
 > **Demis Hassabis**
@@ -30,16 +30,17 @@ This repository contains:
 <br>
 <br>
 
-**Stay tuned and follow me on** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) or [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)  #60DaysRLChallenge
+**Stay tuned and follow me on** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) and [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)   **#60DaysRLChallenge**
 
 Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To get an invitation, email me at andrea.lonza@gmail.com. Also, email me if you have any idea, suggestion or improvement.  
 
-To learn Deep Learning, Computer Vision or Natural Language Processing check my [1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
+To learn Deep Learning, Computer Vision or Natural Language Processing check my **[1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)**
+
 
 ### Before starting.. Prerequisites
 * Basic level of Python and PyTorch
 * [Machine Learning](https://github.com/andri27-ts/1-Year-ML-Journey)
-* [Basic knowledge in Deep Learning (MLP, CNN and RNN)](https://github.com/andri27-ts/1-Year-ML-Journey)
+* [Basic knowledge in Deep Learning (MLP, CNN and RNN)](http://bit.ly/32zi2Ov)
 
 
 ## A cup of Coffe :coffee:
@@ -66,7 +67,7 @@ Any contribution is higly appreciated! Cheers!
 
 ## Week 1 - Introduction
 
-- **[An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights**
+- **[Why is Reinforcement Learning such an important learning method - A simple explanation](https://medium.com/@andrea.lonzats/the-learning-machines-fb922e539335)**
 - **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine, Berkley**
 - **[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**
 
