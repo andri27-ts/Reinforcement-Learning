@@ -4,7 +4,9 @@
 ![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
 
 
-## A introductive course to Deep Reinforcement Learning. Algorithms and examples in Python. Explore the combination of neural network and reinforcement learning and its applications.
+## Course in Deep Reinforcement Learning. 
+
+### Explore the combination of neural network and reinforcement learning. Algorithms and examples in Python & PyTorch.
 
 
 Have you heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)? It's all about deep neural networks and reinforcement learning. Do you want to know more about it?  
