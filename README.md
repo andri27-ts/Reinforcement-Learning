@@ -49,7 +49,7 @@ To learn Deep Learning, Computer Vision or Natural Language Processing check my 
 To learn Reinforcement Learning and Deep RL more in depth, check out my book [**Reinforcement Learning Algorithms with Python**](https://www.amazon.com/Reinforcement-Learning-Algorithms-Python-understand/dp/1789131111)!!
 
 <a href="https://www.amazon.com/Reinforcement-Learning-Algorithms-Python-understand/dp/1789131111">
-<img src="images/frontcover2.jpg" alt="drawing" width="300" align="right"/>
+<img src="images/frontcover2.jpg" alt="drawing" width="350" align="right"/>
 </a>
 
 **Table of Contents**
