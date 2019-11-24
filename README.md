@@ -41,12 +41,36 @@ To learn Deep Learning, Computer Vision or Natural Language Processing check my 
 * [Machine Learning](https://github.com/andri27-ts/1-Year-ML-Journey)
 * [Basic knowledge in Deep Learning (MLP, CNN and RNN)](https://assoc-redirect.amazon.com/g/r/https://amzn.to/2N3AIlp?tag=andreaaffilia-20)
 
+<br>
+<br>
 
-## A cup of Coffe :coffee:
 
-Any contribution is higly appreciated! Cheers!
+## Quick Note: my NEW BOOK is out!
+To learn Reinforcement Learning and Deep RL more in depth, check out my book [**Reinforcement Learning Algorithms with Python**](https://www.amazon.com/Reinforcement-Learning-Algorithms-Python-understand/dp/1789131111)!!
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NKSNP93CNY4KN)  
+<a href="https://www.amazon.com/Reinforcement-Learning-Algorithms-Python-understand/dp/1789131111">
+<img src="images/frontcover2.jpg" alt="drawing" width="300" align="right"/>
+</a>
+
+**Table of Contents**
+1. The Landscape of Reinforcement Learning
+2. Implementing RL Cycle and OpenAI Gym
+3. Solving Problems with Dynamic Programming
+4. Q learning and SARSA Applications
+5. Deep Q-Network
+6. Learning Stochastic and DDPG optimization
+7. TRPO and PPO implementation
+8. DDPG and TD3 Applications
+9. Model-Based RL
+10. Imitation Learning with the DAgger Algorithm
+11. Understanding Black-Box Optimization Algorithms
+12. Developing the ESBAS Algorithm
+13. Practical Implementation for Resolving RL Challenges
+
+
+<br>
+<br>
+<br>
 
 
 ## Index - Reinforcement Learning
